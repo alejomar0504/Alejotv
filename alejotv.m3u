@@ -13,8 +13,6 @@ http://168.194.171.33:8000/play/a01u/index.m3u8
 http://168.194.171.33:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Perú" tvg-logo="https://th.bing.com/th/id/R.6da47654b52d8207c08abcf989112e61?rik=Ai7kedWrrVoQUw&pid=ImgRaw&r=0" group-title="Nacionales",TV Perú
 http://168.194.171.33:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Perú Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/TV_Per%C3%BA_Noticias_2015_-_2017.png/180px-TV_Per%C3%BA_Noticias_2015_-_2017.png" group-title="Nacionales",TV Perú Noticias
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="WILLAX" tvg-logo="https://th.bing.com/th/id/OIP.200ZYnb2HqHThbQWnwK_ZgAAAA?pid=ImgDet&rs=1" group-title="Nacionales",WILLAX
 http://168.194.171.33:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="Internacionales",CNN Chile
