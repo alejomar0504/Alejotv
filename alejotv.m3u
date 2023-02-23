@@ -24,8 +24,6 @@ http://168.194.171.33:8000/play/a00j/index.m3u8
 http://168.194.171.33:8000/play/a01j/index.m3u8
 #EXTINF:-1, Cartoon Network
 http://168.194.171.33:8000/play/a00c/index.m3u8
-#EXTINF:-1, Cinecanal
-http://168.194.171.33:8000/play/a004/index.m3u8
 #EXTINF:-1, Discovery Channel
 http://168.194.171.33:8000/play/a014/index.m3u8
 #EXTINF:-1, Discovery ID
@@ -40,8 +38,6 @@ http://168.194.171.33:8000/play/a00v/index.m3u8
 http://168.194.171.33:8000/play/a017/index.m3u8
 #EXTINF:-1, ESPN
 http://168.194.171.33:8000/play/a01a/index.m3u8
-#EXTINF:-1, ESPN 2
-http://168.194.171.33:8000/play/a00y/index.m3u8
 #EXTINF:-1, ESPN 2 Latin
 http://168.194.171.33:8000/play/a019/index.m3u8
 #EXTINF:-1, ESPN 4
@@ -114,24 +110,12 @@ http://190.131.228.59:8000/play/a0jc/index.m3u8
 http://190.131.228.59:8000/play/a04i/index.m3u8
 #EXTINF:-1, Animal Planet
 http://190.131.228.59:8000/play/a0rz/index.m3u8
-#EXTINF:-1, Animal Planet
-http://190.131.228.59:8000/play/a05o/index.m3u8
 #EXTINF:-1, Animal Planet HD
 http://190.131.228.59:8000/play/a0rq/index.m3u8
 #EXTINF:-1, CNN Chile ca
 http://190.131.228.59:8000/play/a045/index.m3u8
-#EXTINF:-1, CNN Espanol
-http://190.131.228.59:8000/play/a052/index.m3u8
-#EXTINF:-1, Caracol
-http://190.131.228.59:8000/play/a0rs/index.m3u8
 #EXTINF:-1, Caracol HD
 http://190.131.228.59:8000/play/a0r7/index.m3u8
-#EXTINF:-1, Cartoon Network
-http://190.131.228.59:8000/play/a049/index.m3u8
-#EXTINF:-1, Cartoon Network HD
-http://190.131.228.59:8000/play/a0je/index.m3u8
-#EXTINF:-1, Cinecanal
-http://190.131.228.59:8000/play/a03z/index.m3u8
 #EXTINF:-1, Cinecanal HD
 http://190.131.228.59:8000/play/a0ro/index.m3u8
 #EXTINF:-1, Cinemax
@@ -148,13 +132,9 @@ http://190.131.228.59:8000/play/a05n/index.m3u8
 http://190.131.228.59:8000/play/a0re/index.m3u8
 #EXTINF:-1, Discovery HD
 http://190.131.228.59:8000/play/a0j2/index.m3u8
-#EXTINF:-1, Discovery Kids
-http://190.131.228.59:8000/play/a0qt/index.m3u8
 #EXTINF:-1, Discovery Kids HD
 http://190.131.228.59:8000/play/a0rd/index.m3u8
-#EXTINF:-1, Discovery Kids ca
-http://190.131.228.59:8000/play/a06y/index.m3u8
-#EXTINF:-1, Discovery Theater HD
+EXTINF:-1, Discovery Theater HD
 http://190.131.228.59:8000/play/a0rf/index.m3u8
 #EXTINF:-1, Discovery Turbo
 http://190.131.228.59:8000/play/a04t/index.m3u8
@@ -168,8 +148,6 @@ http://190.131.228.59:8000/play/a05i/index.m3u8
 http://190.131.228.59:8000/play/a05q/index.m3u8
 #EXTINF:-1, ESPN 2
 http://190.131.228.59:8000/play/a0hn/index.m3u8
-#EXTINF:-1, ESPN 2
-http://190.131.228.59:8000/play/a05k/index.m3u8
 #EXTINF:-1, ESPN 2 Latin ca
 http://190.131.228.59:8000/play/a05s/index.m3u8
 #EXTINF:-1, ESPN 3
@@ -206,8 +184,6 @@ http://190.131.228.59:8000/play/a09a/index.m3u8
 http://190.131.228.59:8000/play/a08j/index.m3u8
 #EXTINF:-1, HBO 2 HD
 http://190.131.228.59:8000/play/a0jh/index.m3u8
-#EXTINF:-1, HBO Family
-http://190.131.228.59:8000/play/a05h/index.m3u8
 #EXTINF:-1, HBO Family HD
 http://190.131.228.59:8000/play/a0j5/index.m3u8
 #EXTINF:-1, HBO HD
@@ -228,8 +204,6 @@ http://190.131.228.59:8000/play/a053/index.m3u8
 http://190.131.228.59:8000/play/a0hw/index.m3u8
 #EXTINF:-1, MTV
 http://190.131.228.59:8000/play/a042/index.m3u8
-#EXTINF:-1, Nat Geo
-http://190.131.228.59:8000/play/a03x/index.m3u8
 #EXTINF:-1, Nat Geo HD
 http://190.131.228.59:8000/play/a0j9/index.m3u8
 #EXTINF:-1, Nickelodeon
@@ -240,8 +214,6 @@ http://190.131.228.59:8000/play/a0jf/index.m3u8
 http://190.131.228.59:8000/play/a0rm/index.m3u8
 #EXTINF:-1, STAR CHANNEL
 http://190.131.228.59:8000/play/a08r/index.m3u8
-#EXTINF:-1, Senal Colombia
-http://190.131.228.59:8000/play/a00a/index.m3u8
 #EXTINF:-1, Sony
 http://190.131.228.59:8000/play/a04h/index.m3u8
 #EXTINF:-1, Space
@@ -264,10 +236,6 @@ http://190.131.228.59:8000/play/a059/index.m3u8
 http://190.131.228.59:8000/play/a0rj/index.m3u8
 #EXTINF:-1, TRO
 http://190.131.228.59:8000/play/a00e/index.m3u8
-#EXTINF:-1, TV+ HD
-http://190.131.228.59:8000/play/a0do/index.m3u8
-#EXTINF:-1, TVE
-http://190.131.228.59:8000/play/a04e/index.m3u8
 #EXTINF:-1, TyC Sports
 http://190.131.228.59:8000/play/a05v/index.m3u8
 #EXTINF:-1, Universal
@@ -278,8 +246,6 @@ http://190.131.228.59:8000/play/a05p/index.m3u8
 http://190.131.228.59:8000/play/a04m/index.m3u8
 #EXTINF:-1, Win Sports+ HD
 http://190.131.228.59:8000/play/a0e2/index.m3u8
-#EXTINF:-1, MLB Network
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/128170
 #EXTINF:-1, Directv
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127435
 #EXTINF:-1, ESPN Chile
@@ -292,10 +258,6 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127429
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127430
 #EXTINF:-1, Deportes - TNT Sports 2 HD
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127431
-#EXTINF:-1, TNT Estadio (Alta velocidad requerida)
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127434
-#EXTINF:-1, Deportes - CDO
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127438
 #EXTINF:-1, CDO Premium
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127439
 #EXTINF:-1, Gol Peru
@@ -304,8 +266,6 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/121230
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/121227
 #EXTINF:-1, Direct TV Sports
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/121234
-#EXTINF:-1, Eurosport 2
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126955
 #EXTINF:-1, M+ Deportes
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126962
 #EXTINF:-1, M+ Liga de Campeones
@@ -320,8 +280,6 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127171
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127172
 #EXTINF:-1, Fox Sports
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127173
-#EXTINF:-1, Fox Sports 2
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127175
 #EXTINF:-1, Fox Sports 3
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127176
 #EXTINF:-1, ESPN Extra
@@ -338,22 +296,8 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127578
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127582
 #EXTINF:-1, Win Sports Plus
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127583
-#EXTINF:-1, El Canal del Futbol
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127591
-#EXTINF:-1, Win Sports Plus HD
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127627
-#EXTINF:-1, MLS
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/128167
-#EXTINF:-1, UFC Fight Pass
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/128168
-#EXTINF:-1, MLB Network
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/128170
-#EXTINF:-1, ESPN
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/128773
 #EXTINF:-1, Tnt Estadio SD
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/130551
-#EXTINF:-1, ESPN
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/132654
 #EXTINF:-1, Liga Betplay Dimayor Colombia
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/132981
 #EXTINF:-1, Liga 1 Peru
@@ -364,18 +308,10 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126954
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126955
 #EXTINF:-1, M+ Deportes
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126962
-#EXTINF:-1, M+ Golf
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126973
 #EXTINF:-1, La Liga
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126974
 #EXTINF:-1, M+ Liga de Campeones
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126981
-#EXTINF:-1, DAZN 1
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127906
-#EXTINF:-1, DAZN 3
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127910
-#EXTINF:-1, DAZN 4
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127912
 #EXTINF:-1, DAZN F1
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127914
 #EXTINF:-1, GOL
@@ -402,8 +338,6 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127145
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127146
 #EXTINF:-1, I Sat
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127147
-#EXTINF:-1, TBS
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127148
 #EXTINF:-1, TCM
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127149
 #EXTINF:-1, Cine - DHE
@@ -412,18 +346,10 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127151
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127152
 #EXTINF:-1, Las Estrellas
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127153
-#EXTINF:-1, Pasiones
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127154
-#EXTINF:-1, Cine - Hola TV
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127155
-#EXTINF:-1, Kanal D
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127157
 #EXTINF:-1, HBO Family
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127158
 #EXTINF:-1, Cine- HBO 2
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127159
-#EXTINF:-1, HBO Plus
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127160
 #EXTINF:-1, Cine - HBO Xtreme
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127161
 #EXTINF:-1, Cine - HBO Signature
@@ -442,16 +368,12 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127167
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127178
 #EXTINF:-1, Universal Premiere
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127179
-#EXTINF:-1, Universal Crime
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127180
 #EXTINF:-1, Universal Cinema
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127181
 #EXTINF:-1, Universal Comedy
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127182
 #EXTINF:-1, Cine - Universal Reality
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127183
-#EXTINF:-1, SYFY
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127184
 #EXTINF:-1, Cine Latino
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127412
 #EXTINF:-1, De Pelicula
@@ -460,8 +382,6 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127413
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127414
 #EXTINF:-1, Warner Channel
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127415
-#EXTINF:-1, Multipremier
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127416
 #EXTINF:-1, Films and Arts
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127417
 #EXTINF:-1, Cartoon Network
@@ -490,8 +410,6 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/125896
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/125897
 #EXTINF:-1, 24\/7 Picapiedras
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126182
-#EXTINF:-1, 24\/7 El Chavo del Ocho
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126023
 #EXTINF:-1, 24\/7 Kick Buttowski
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/125922
 #EXTINF:-1, 24\/7 UFC
@@ -508,32 +426,8 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126092
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126331
 #EXTINF:-1, Malcolm
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/128808
-#EXTINF:-1, 24\/7 Los Simpsons (Antiguos)
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/131662
-#EXTINF:-1, 24\/7 Dragon Ball
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/131669
-#EXTINF:-1, 24\/7 La Hora Pico
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/131672
-#EXTINF:-1, 24\/7 South Park
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/131682
-#EXTINF:-1, 24\/7 Yu-Gi-Oh! Duelo de Monstuos
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/131683
-#EXTINF:-1, 24x7 | Johnny Bravo
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/131685
-#EXTINF:-1, Rick y Morty 247
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/131688
-#EXTINF:-1, Sailor moon 1
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/131689
-#EXTINF:-1, SCOOBY-DOO 24\/7
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/131690
-#EXTINF:-1, Supercampeones
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/131691
 #EXTINF:-1, MTV
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127418
-#EXTINF:-1, Musica - HTV
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127419
-#EXTINF:-1, MTV Live
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127420
 #EXTINF:-1, MTV Classics
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127421
 #EXTINF:-1, MTV Hits
@@ -542,8 +436,6 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127422
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127423
 #EXTINF:-1, Concert Channel
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127424
-#EXTINF:-1, VH1
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127426
 #EXTINF:-1, History Channel
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127299
 #EXTINF:-1, History 2
@@ -564,8 +456,6 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127306
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127307
 #EXTINF:-1, Culturales - Discovery ID
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127308
-#EXTINF:-1, Natgeo
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127309
 #EXTINF:-1, Animal Planet
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127405
 #EXTINF:-1, Nat Geo Wild
