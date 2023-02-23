@@ -7,8 +7,6 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BHTV" tvg-logo="https://th.bing.com/th/id/OIP.xE81Yq4DfWLVf8YsIT516AHaHa?pid=ImgDet&rs=1" group-title="Nacionales",BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Karibeña" tvg-logo="https://yt3.ggpht.com/a/AATXAJx5cw59AWmEerIb0LI4Cji7Lxp1PJ1IV-Vsgw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Nacionales",Karibeña
-https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Latina" tvg-logo="https://th.bing.com/th/id/OIP.6BoXLpF4Bjoduy5BZGA8jwAAAA?pid=ImgDet&rs=1" group-title="Nacionales",Latina
 http://168.194.171.33:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Panamericana TV" tvg-logo="https://th.bing.com/th/id/OIP.UCmVN7Cxu4GK4OO3rcehawHaGr?pid=ImgDet&rs=1" group-title="Nacionales",Panamericana TV
