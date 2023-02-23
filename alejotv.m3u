@@ -10,34 +10,10 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Retro Plus TV Señal 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, Retro Music Television
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Maxima FM
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, Karibeña TV
-https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
-#EXTINF:-1, Cine Sd
-http://regioplay.xyz/php/SR_REGIO_812023_/vix.php?c=450&pid=450&token=SrRegio&f=.m3u8
-#EXTINF:-1, Cine Sd
-http://regioplay.xyz/php/SR_REGIO_812023_/vix.php?c=451&pid=451&token=SrRegio&f=.m3u8
-#EXTINF:-1, Deportes
-http://regioplay.xyz/php/SR_REGIO_812023_/vix.php?c=452&pid=452&token=SrRegio&f=.m3u8
-#EXTINF:-1,  Telehit Musica
-http://regioplay.xyz/php/SR_REGIO_812023_/vix.php?c=418&pid=418&token=SrRegio&f=.m3u8
-#EXTINF:-1,  Telehit Musica Plus
-http://regioplay.xyz/php/SR_REGIO_812023_/vix.php?c=419&pid=419&token=SrRegio&f=.m3u8
-#EXTINF:-1,  Telehit
-http://regioplay.xyz/php/SR_REGIO_812023_/vix.php?c=417&pid=417&token=SrRegio&f=.m3u8
-#EXTINF:-1,  Vevo
-http://regioplay.xyz/php/SR_REGIO_812023_/vix.php?c=389&pid=389&token=SrRegio&f=.m3u8
-#EXTINF:-1,  Vevo
-http://regioplay.xyz/php/SR_REGIO_812023_/vix.php?c=388&pid=388&token=SrRegio&f=.m3u8
-#EXTINF:-1,  WIN SPORTS
-http://bgapp.live/play/futvall-215.php?id=d2luY29s&token=blackghooooosttttt&f=.m3u8
-#EXTINF:-1,  WIN SPORTS PLUS
-http://bgapp.live/play/futvall-215.php?id=d2lucGx1c2NvbA==&token=blackghooooosttttt&f=.m3u8
 #EXTINF:-1, 9-ATV
 http://168.194.171.33:8000/play/a01x/index.m3u8
 #EXTINF:-1, 2-AmericaTV
