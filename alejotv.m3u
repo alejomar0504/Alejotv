@@ -4,8 +4,6 @@
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1, RT ESPANOL
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1, ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1, Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Retro Plus TV Señal 2
