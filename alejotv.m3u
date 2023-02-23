@@ -1,25 +1,27 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="willax_tv" tvg-name="WILLAX" tvg-logo="https://th.bing.com/th/id/OIP.200ZYnb2HqHThbQWnwK_ZgAAAA?pid=ImgDet&rs=1" group-title="Nacionales",WILLAX
+http://168.194.171.33:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTV" tvg-name="America TV" tvg-logo="https://pluspng.com/img-png/logo-america-tv-png-file-america-television-logo-2016-png-1261.png" group-title="Nacionales",America TV
 http://168.194.171.33:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_(Peru)_-_2018_logo.png" group-title="Nacionales",ATV
 http://168.194.171.33:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Latina" tvg-logo="https://th.bing.com/th/id/OIP.6BoXLpF4Bjoduy5BZGA8jwAAAA?pid=ImgDet&rs=1" group-title="Nacionales",Latina
 http://168.194.171.33:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BHTV" tvg-logo="" group-title="Nacionales",BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Panamericana TV" tvg-logo="https://th.bing.com/th/id/OIP.UCmVN7Cxu4GK4OO3rcehawHaGr?pid=ImgDet&rs=1" group-title="Nacionales",Panamericana TV
 http://168.194.171.33:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Perú" tvg-logo="https://th.bing.com/th/id/R.6da47654b52d8207c08abcf989112e61?rik=Ai7kedWrrVoQUw&pid=ImgRaw&r=0" group-title="Nacionales",TV Perú
 http://168.194.171.33:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WILLAX" tvg-logo="https://th.bing.com/th/id/OIP.200ZYnb2HqHThbQWnwK_ZgAAAA?pid=ImgDet&rs=1" group-title="Nacionales",WILLAX
-http://168.194.171.33:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Chile ca" tvg-logo="" group-title="Internacionales",CNN Chile ca
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="Internacionales",CNN Chile
 http://190.131.228.59:8000/play/a045/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Espanol" tvg-logo="" group-title="Internacionales",CNN Espanol
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Espanol" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/CNN_en_Espa%C3%B1ol_1997.svg/revision/latest?cb=20220409050309&path-prefix=es" group-title="Internacionales",CNN Espanol
 http://168.194.171.33:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW (Español)" tvg-logo="" group-title="Internacionales",DW (Español)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW (Español)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacionales",DW (Español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCN HD" tvg-logo="" group-title="Internacionales",RCN HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCN" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/logo_canal_rcn_color_cmyk-01_1.jpg" group-title="Internacionales",RCN
 http://190.131.228.59:8000/play/a0rm/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT ESPANOL" tvg-logo="" group-title="Internacionales",RT ESPANOL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT (Español)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/640px-Russia-today-logo.svg.png" group-title="Internacionales",RT (Español)
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="Cultura",Animal Planet
 http://190.131.228.59:8000/play/a0rq/index.m3u8
@@ -30,11 +32,9 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127305
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery H&H 2" tvg-logo="" group-title="Cultura",Discovery H&H 2
 http://190.131.228.59:8000/play/a0re/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery ID" tvg-logo="" group-title="Cultura",Discovery ID
+http://168.194.171.33:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery ID" tvg-logo="" group-title="Cultura",Discovery ID
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127308
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids 1" tvg-logo="" group-title="Cultura",Discovery Kids 1
-http://168.194.171.33:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids 2" tvg-logo="" group-title="Cultura",Discovery Kids 2
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127287
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="" group-title="Cultura",Discovery Science
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127307
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Theater" tvg-logo="" group-title="Cultura",Discovery Theater
@@ -43,14 +43,12 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127302
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127306
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="" group-title="Cultura",Discovery Turbo
 http://190.131.228.59:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="" group-title="Cultura",Discovery Turbo
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127303
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery World" tvg-logo="" group-title="Cultura",Discovery World
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127304
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery World HD" tvg-logo="" group-title="Cultura",Discovery World HD
 http://190.131.228.59:8000/play/a0rn/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="Cultura",Disney Channel
-http://168.194.171.33:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="Cultura",Disney Channel
-http://190.131.228.59:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="Cultura",Disney Channel
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127288
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History 2" tvg-logo="" group-title="Cultura",History 2
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127300
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel 1" tvg-logo="" group-title="Cultura",History Channel 1
@@ -163,6 +161,16 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127183
 http://168.194.171.33:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner Channel" tvg-logo="" group-title="Cine",Warner Channel
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127415
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids 1" tvg-logo="" group-title="Infantiles",Discovery Kids 1
+http://168.194.171.33:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids 2" tvg-logo="" group-title="Infantiles",Discovery Kids 2
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127287
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="Infantiles",Disney Channel
+http://168.194.171.33:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="Infantiles",Disney Channel
+http://190.131.228.59:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="Infantiles",Disney Channel
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127288
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantiles",Cartoon Network
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127286
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonito" tvg-logo="" group-title="Infantiles",Cartoonito
