@@ -113,113 +113,101 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127145
 http://168.194.171.33:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner Channel" tvg-logo="https://th.bing.com/th/id/OIP.S1y1IzKKOS0fxIwIXeVBWQHaHG?pid=ImgDet&rs=1" group-title="Cine",Warner Channel
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127415
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids 1" tvg-logo="" group-title="Infantiles",Discovery Kids 1
-http://168.194.171.33:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids 2" tvg-logo="" group-title="Infantiles",Discovery Kids 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Infantiles",Discovery Kids
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127287
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="Infantiles",Disney Channel
-http://168.194.171.33:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="Infantiles",Disney Channel
-http://190.131.228.59:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="Infantiles",Disney Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1280px-Disney_Channel_logo.svg.png" group-title="Infantiles",Disney Channel
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127288
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantiles",Cartoon Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://th.bing.com/th/id/OIP.UeRlgaqhGIq5fxc_JkuWCAHaEb?pid=ImgDet&rs=1" group-title="Infantiles",Cartoon Network
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127286
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonito" tvg-logo="" group-title="Infantiles",Cartoonito
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127293
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Jr" tvg-logo="" group-title="Infantiles",Disney Jr
-http://168.194.171.33:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Jr" tvg-logo="" group-title="Infantiles",Disney Jr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Jr" tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s640/Logo%2BDisney_Junior.png" group-title="Infantiles",Disney Jr
 http://190.131.228.59:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Junior" tvg-logo="" group-title="Infantiles",Disney Junior
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127289
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr" tvg-logo="" group-title="Infantiles",Nick Jr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/320px-Nick_Jr._logo_2009.svg.png" group-title="Infantiles",Nick Jr
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127291
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon" tvg-logo="" group-title="Infantiles",Nickelodeon
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon" tvg-logo="https://www.construktiv.de/wp-content/uploads/2020/03/Nickelodeon-logo_600x270.png" group-title="Infantiles",Nickelodeon
 http://190.131.228.59:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teen Nick" tvg-logo="" group-title="Infantiles",Teen Nick
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teen Nick" tvg-logo="https://th.bing.com/th/id/OIP.YodYyqOlHAUU1mMSIgWjAgAAAA?pid=ImgDet&w=400&h=74&rs=1" group-title="Infantiles",Teen Nick
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127298
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tooncast" tvg-logo="" group-title="Infantiles",Tooncast
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tooncast" tvg-logo="https://1.bp.blogspot.com/-z5W-eHcIY9g/Viel5IQUEQI/AAAAAAAAGf4/XzPgppD7Pnc/s1600/tooncast-logo-2015.jpg" group-title="Infantiles",Tooncast
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127292
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Cazadores de Mitos" tvg-logo="" group-title="24/7",24/7 Cazadores de Mitos
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Cazadores de Mitos" tvg-logo="https://th.bing.com/th/id/R.17e26331bd9335bd902d9e90370e15a2?rik=OeC2KqZQ6ZcQvQ&pid=ImgRaw&r=0" group-title="24/7",24/7 Cazadores de Mitos
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126092
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Dragon Ball" tvg-logo="" group-title="24/7",24/7 Dragon Ball
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Dragon Ball" tvg-logo="https://i.pinimg.com/736x/fb/c5/d4/fbc5d4497f0821e5abd60e83f81f9e7e.jpg" group-title="24/7",24/7 Dragon Ball
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/125896
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 El precio de la historia" tvg-logo="" group-title="24/7",24/7 El precio de la historia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 El precio de la historia" tvg-logo="https://th.bing.com/th/id/OIP.buaYEebpvNcgGjn9WoRSbgAAAA?pid=ImgDet&rs=1" group-title="24/7",24/7 El precio de la historia
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126028
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Kick Buttowski" tvg-logo="" group-title="24/7",24/7 Kick Buttowski
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Kick Buttowski" tvg-logo="https://th.bing.com/th/id/OIP.UI09Z1wVhbuUg9byC2uMawHaD6?pid=ImgDet&rs=1" group-title="24/7",24/7 Kick Buttowski
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/125922
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Los Simpson" tvg-logo="" group-title="24/7",24/7 Los Simpson
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Los Simpson" tvg-logo="https://www.wm-em-wetten.de/wp-content/uploads/sites/25/2014/04/The_Simpsons_Logo.jpg" group-title="24/7",24/7 Los Simpson
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/125897
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Luisito Comunica" tvg-logo="" group-title="24/7",24/7 Luisito Comunica
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Luisito Comunica" tvg-logo="https://th.bing.com/th/id/OIP.LnqJnGiJ9Ob_lk0fGLDtlwHaEE?pid=ImgDet&rs=1" group-title="24/7",24/7 Luisito Comunica
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126025
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Max Steel" tvg-logo="" group-title="24/7",24/7 Max Steel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Max Steel" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/17831595.548d0905747ca.jpg" group-title="24/7",24/7 Max Steel
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126141
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Picapiedras" tvg-logo="" group-title="24/7",24/7 Picapiedras
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Picapiedras" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/01_logo_picapiedras_200x200.png" group-title="24/7",24/7 Picapiedras
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126182
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Planeta TV Music" tvg-logo="" group-title="24/7",24/7 Planeta TV Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Planeta TV Music" tvg-logo="https://i1.sndcdn.com/avatars-000301903594-twktkx-t500x500.jpg" group-title="24/7",24/7 Planeta TV Music
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126331
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 UFC" tvg-logo="" group-title="24/7",24/7 UFC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 UFC" tvg-logo="https://th.bing.com/th/id/R.dd3ba9ce98f1dabcbbee7f89a3ebc38a?rik=nGbEcH%2bc45pgFQ&pid=ImgRaw&r=0" group-title="24/7",24/7 UFC
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126319
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 X Men" tvg-logo="" group-title="24/7",24/7 X Men
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 X Men" tvg-logo="https://www.lospaziobianco.it/wp-content/uploads/2015/08/x-men-logo.jpg" group-title="24/7",24/7 X Men
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126362
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="City TV" tvg-logo="" group-title="Entretenimiento",City TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="City TV" tvg-logo="https://th.bing.com/th/id/OIP.G2LTkG_5NKuZeMRgECMzQQAAAA?pid=ImgDet&rs=1" group-title="Entretenimiento",City TV
 http://190.131.228.59:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="" group-title="Entretenimiento",Comedy Central
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://img.favpng.com/17/19/18/comedy-central-logo-television-viacom-media-networks-png-favpng-QHtGeazEkYmrRdhwwqHZYUP0X.jpg" group-title="Entretenimiento",Comedy Central
 http://181.78.24.67:8010/play/a05c/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Concert Channel" tvg-logo="" group-title="Entretenimiento",Concert Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Concert Channel" tvg-logo="https://images.mi.tv/channels/co_concert-channel-hd_m.png" group-title="Entretenimiento",Concert Channel
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127424
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cristovisión" tvg-logo="" group-title="Entretenimiento",Cristovisión
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cristovisión" tvg-logo="https://enlacecatolico.info/wp-content/uploads/2017/08/cristo_20140919024225881521.jpg" group-title="Entretenimiento",Cristovisión
 http://190.131.228.59:8000/play/a0qy/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E Entertainment" tvg-logo="" group-title="Entretenimiento",E Entertainment
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E Entertainment" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/e8/aa/13/e8aa13a86dbde76628c90db009215d50.jpg" group-title="Entretenimiento",E Entertainment
 http://168.194.171.33:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Gourmet" tvg-logo="" group-title="Entretenimiento",El Gourmet
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Gourmet" tvg-logo="https://th.bing.com/th/id/R.6948e029ca020116689426c0d3422f38?rik=FyrCl%2fFX7MTAnA&pid=ImgRaw&r=0" group-title="Entretenimiento",El Gourmet
 http://181.78.24.67:8010/play/a05f/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enlace" tvg-logo="" group-title="Entretenimiento",Enlace
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enlace" tvg-logo="https://th.bing.com/th/id/OIP.urMfyHKfAVDxHXlCLIWsVgAAAA?pid=ImgDet&rs=1" group-title="Entretenimiento",Enlace
 http://190.131.228.59:8000/play/a0qx/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETC Tv" tvg-logo="" group-title="Entretenimiento",ETC Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETC Tv" tvg-logo="https://th.bing.com/th/id/OIP.32ahprOg6BKUnYAm4ApHFAHaCq?pid=ImgDet&rs=1" group-title="Entretenimiento",ETC Tv
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127295
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Networks" tvg-logo="" group-title="Entretenimiento",Food Networks
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Networks" tvg-logo="https://th.bing.com/th/id/R.55d4c3622116377cab47b740ba94bc68?rik=Jjuv1HnrXC%2fLYA&pid=ImgRaw&r=0" group-title="Entretenimiento",Food Networks
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127407
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hola TV" tvg-logo="" group-title="Entretenimiento",Hola TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hola TV" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/6/65/Hola_tv_logo.png/revision/latest?cb=20151122155608" group-title="Entretenimiento",Hola TV
 http://190.131.228.59:8000/play/a0qw/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Red ca" tvg-logo="" group-title="Entretenimiento",La Red ca
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Red ca" tvg-logo="https://th.bing.com/th/id/R.7a2e9b6ae7d8f169d7a46e3642b8b22c?rik=ooTOWrXUW6sPTg&pid=ImgRaw&r=0" group-title="Entretenimiento",La Red ca
 http://190.131.228.59:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las Estrellas" tvg-logo="" group-title="Entretenimiento",Las Estrellas
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las Estrellas" tvg-logo="https://th.bing.com/th/id/OIP.MzTSrfune8mGLfPLSH2l8QHaGw?pid=ImgDet&rs=1" group-title="Entretenimiento",Las Estrellas
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127153
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las Estrellas LA" tvg-logo="" group-title="Entretenimiento",Las Estrellas LA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las Estrellas LA" tvg-logo="https://th.bing.com/th/id/R.8eb4fd77c449488022118ca600063bdd?rik=UIFmtSbQLMFASQ&pid=ImgRaw&r=0" group-title="Entretenimiento",Las Estrellas LA
 http://168.194.171.33:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcolm" tvg-logo="" group-title="Entretenimiento",Malcolm
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcolm" tvg-logo="https://th.bing.com/th/id/OIP.n0w92oEwYmCBSCnBPxnCYQAAAA?pid=ImgDet&rs=1" group-title="Entretenimiento",Malcolm
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/128808
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maxima FM" tvg-logo="" group-title="Entretenimiento",Maxima FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maxima FM" tvg-logo="https://i1.sndcdn.com/avatars-000119256930-q5rg2n-t500x500.jpg" group-title="Entretenimiento",Maxima FM
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="Entretenimiento",MTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="https://i.pinimg.com/736x/bc/d2/ea/bcd2eac576eb60d36750d841ee9ff5ea.jpg" group-title="Entretenimiento",MTV
 http://190.131.228.59:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Classics" tvg-logo="" group-title="Entretenimiento",MTV Classics
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Classics" tvg-logo="https://th.bing.com/th/id/OIP.a2MIG6xde0lyeWwC2hDyjwHaHC?pid=ImgDet&rs=1" group-title="Entretenimiento",MTV Classics
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127421
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Top" tvg-logo="" group-title="Entretenimiento",Music Top
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Top" tvg-logo="https://th.bing.com/th/id/OIP.RppCiS6H1lqj2jNIcc0KlgHaHg?pid=ImgDet&rs=1" group-title="Entretenimiento",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus TV" tvg-logo="" group-title="Entretenimiento",Retro Plus TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus TV" tvg-logo="https://th.bing.com/th/id/OIP.tQd486Okx36uucXXCb_GqwHaHa?pid=ImgDet&rs=1" group-title="Entretenimiento",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus TV Señal 2" tvg-logo="" group-title="Entretenimiento",Retro Plus TV Señal 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://3.bp.blogspot.com/-PTa2TNmlgiY/XZ9QZMZ84mI/AAAAAAAACHk/gZcM0CkE5TMC0aMDFk69_oSmNb9fsck0ACPcBGAYYCw/s320/Screenshot_2019-10-10-12-36-15.png" group-title="Entretenimiento",Retro Plus TV Señal 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Channel" tvg-logo="" group-title="Entretenimiento",Sun Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Channel" tvg-logo="https://yt3.ggpht.com/-PZWdnv7xG9I/AAAAAAAAAAI/AAAAAAAAAAA/qdv4rBjjPgc/s900-c-k-no/photo.jpg" group-title="Entretenimiento",Sun Channel
 http://181.78.24.67:8010/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telehit" tvg-logo="" group-title="Entretenimiento",Telehit
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telehit" tvg-logo="https://th.bing.com/th/id/OIP.jAFHEghH39dHod68BFt0BQHaFj?pid=ImgDet&rs=1" group-title="Entretenimiento",Telehit
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127423
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Televen" tvg-logo="" group-title="Entretenimiento",Televen
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Televen" tvg-logo="https://th.bing.com/th/id/OIP.HEBEJ45EFu6UEkR5qVfaaQAAAA?pid=ImgDet&rs=1" group-title="Entretenimiento",Televen
 http://181.78.24.67:8010/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRO" tvg-logo="" group-title="Entretenimiento",TRO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRO" tvg-logo="https://th.bing.com/th/id/OIP.Dk0jN6S_Z3o6SLH97lniqwHaFc?pid=ImgDet&rs=1" group-title="Entretenimiento",TRO
 http://190.131.228.59:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Claro Sports" tvg-logo="" group-title="Deportes",Claro Sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Claro Sports" tvg-logo="https://th.bing.com/th/id/OIP.KqJ1eJfNSbCHVrxUxkYjRQHaHa?pid=ImgDet&rs=1" group-title="Deportes",Claro Sports
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127411
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN F1" tvg-logo="" group-title="Deportes",DAZN F1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN F1" tvg-logo="https://th.bing.com/th/id/OIP.qA9cIk_5fzlf4ZYFL5ErgQAAAA?pid=ImgDet&rs=1" group-title="Deportes",DAZN F1
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127914
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Direct TV Sports" tvg-logo="" group-title="Deportes",Direct TV Sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Direct TV Sports" tvg-logo="https://th.bing.com/th/id/OIP.4WIEEXsfMDY1XQ6tZy7y5wHaHa?pid=ImgDet&rs=1" group-title="Deportes",Direct TV Sports
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/121234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Directv" tvg-logo="" group-title="Deportes",Directv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Directv" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Logo_DirecTV.png/revision/latest?cb=20160720195206" group-title="Deportes",Directv
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127435
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Directv Sports +" tvg-logo="" group-title="Deportes",Directv Sports +
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Directv Sports +" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s86a1480785a470a0/image/idb50fc2a9453b4f5/version/1619771942/image.png" group-title="Deportes",Directv Sports +
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127284
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Directv Sports 2" tvg-logo="" group-title="Deportes",Directv Sports 2
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127283
