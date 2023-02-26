@@ -5,8 +5,6 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BHTV" tvg-logo="https://th.bing.com/th/id/OIP.xE81Yq4DfWLVf8YsIT516AHaHa?pid=ImgDet&rs=1" group-title="Nacionales",BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="Internacionales",CNN Chile
-http://190.131.228.59:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW (Español)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacionales",DW (Español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCN" tvg-logo="https://1.bp.blogspot.com/-p-XT4CsBW78/ULw756abZSI/AAAAAAAABJ0/F58ElQhAAZk/s1600/RCN.gif" group-title="Internacionales",RCN
