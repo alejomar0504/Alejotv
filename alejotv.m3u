@@ -59,8 +59,6 @@ http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127162
 http://190.131.228.59:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount" tvg-logo="https://vignette.wikia.nocookie.net/logo-chaines/images/8/8d/Langfr-800px-Paramount_Channel.svg.png/revision/latest?cb=20190816205231&path-prefix=fr" group-title="Cine",Paramount
 http://190.131.228.59:8000/play/a0jf/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="Cine",Studio Universal
-http://181.78.24.67:8010/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCM" tvg-logo="https://th.bing.com/th/id/R.96ea0bb419a269e769ca848aa8e52fe2?rik=FlqIrU0On0A2Rg&pid=ImgRaw&r=0" group-title="Cine",TCM
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127149
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://i.pinimg.com/originals/17/27/3a/17273a204f0d022c047b7992daa191f3.jpg" group-title="Cine",TLC
