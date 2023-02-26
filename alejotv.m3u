@@ -33,8 +33,6 @@ http://181.78.24.67:8010/play/a008/index.m3u8
 http://45.190.13.50:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="https://i.pinimg.com/originals/94/0f/15/940f15aebf4cc73900c05787384c2075.jpg" group-title="Cultura",Nat Geo
 http://190.131.228.59:8000/play/a0j9/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://th.bing.com/th/id/OIP.mDWA_b7DJ2JquSkkJnqHLwHaHa?pid=ImgDet&rs=1" group-title="Cine",A&E
-http://181.78.24.67:8010/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="https://th.bing.com/th/id/R.3a7262f98b81c6c03f2e43731c02580e?rik=dUHuOjrdvRIBbA&pid=ImgRaw&r=0" group-title="Cine",AMC
 http://190.131.228.59:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinecanal" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinecanal.png" group-title="Cine",Cinecanal
