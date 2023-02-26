@@ -19,10 +19,6 @@ http://45.190.13.50:8000/play/a032/index.m3u8
 http://45.190.13.50:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery ID" tvg-logo="https://th.bing.com/th/id/OIP.zIfXnwF2X0xAfdTdTIi28QAAAA?pid=ImgDet&rs=1" group-title="Cultura",Discovery ID
 http://45.190.13.50:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="https://th.bing.com/th/id/OIP.mlmE-eEo41iLKnyjkXlMWQAAAA?pid=ImgDet&rs=1" group-title="Cultura",Discovery Science
-http://45.190.13.50:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Theater" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="Cultura",Discovery Theater
-http://45.190.13.50:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="https://th.bing.com/th/id/OIP.vO0pKuUButArBBcaVGwrDQAAAA?pid=ImgDet&rs=1" group-title="Cultura",Discovery Turbo
 http://190.131.228.59:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery World" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="Cultura",Discovery World
