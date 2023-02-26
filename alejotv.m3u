@@ -53,8 +53,6 @@ http://190.131.228.59:8000/play/a0jh/index.m3u8
 http://190.131.228.59:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Plus" tvg-logo="https://th.bing.com/th/id/OIP.5X1p4HDWZ7szAt15sXKxnQAAAA?pid=ImgDet&rs=1" group-title="Cine",HBO Plus
 http://190.131.228.59:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Pop" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" group-title="Cine",HBO Pop
-http://181.78.24.67:8010/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature" tvg-logo="https://th.bing.com/th/id/OIP.j17Uwpq6EhI86iq2OfIm_gAAAA?pid=ImgDet&rs=1" group-title="Cine",HBO Signature
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127162
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO XTREME SD" tvg-logo="https://th.bing.com/th/id/OIP.mgONcMaJUg1mHkWFnn6LbgAAAA?pid=ImgDet&w=252&h=252&rs=1" group-title="Cine",HBO XTREME SD
