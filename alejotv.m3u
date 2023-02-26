@@ -77,8 +77,6 @@ http://45.190.13.50:8003/play/a01y/index.m3u8
 http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127149
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://i.pinimg.com/originals/17/27/3a/17273a204f0d022c047b7992daa191f3.jpg" group-title="Cine",TLC
 http://190.131.228.59:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="Cine",TNT
-http://190.131.228.59:8000/play/a0r2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Series" tvg-logo="https://th.bing.com/th/id/OIP.zXDMuXVkpUWS1gQJ5ESBygAAAA?pid=ImgDet&rs=1" group-title="Cine",TNT Series
 http://45.190.13.50:8003/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal" tvg-logo="https://th.bing.com/th/id/OIP.ZP8S91hO3Q4vw0decjMIxQHaHa?pid=ImgDet&rs=1" group-title="Cine",Universal
