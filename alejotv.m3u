@@ -83,8 +83,6 @@ http://45.190.13.50:8003/play/a02x/index.m3u8
 http://190.131.228.59:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Cinema" tvg-logo="https://th.bing.com/th/id/OIP.DkbnJ0rrenp-4IKLC2iDGAHaHa?pid=ImgDet&w=400&h=400&rs=1" group-title="Cine",Universal Cinema
 http://45.190.13.50:8003/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Comedy" tvg-logo="https://th.bing.com/th/id/OIP.QVUBtHeSSXCx2z-H3bBOzgHaHa?pid=ImgDet&rs=1" group-title="Cine",Universal Comedy
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127182
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Crime" tvg-logo="https://1.bp.blogspot.com/-5XpjpCd2H6E/X8BsgEF6raI/AAAAAAAACV8/ECHztuiHzeA4BVw22_35VPUFjaImqmJWQCLcBGAsYHQ/s0/assistir-universal-tv-ao-vivo-universal-tv-ao-vivo-online.png" group-title="Cine",Universal Crime
 http://45.190.13.50:8003/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Premiere" tvg-logo="https://pixel.nymag.com/imgs/daily/vulture/2012/03/02/02_universal-logo.w330.h330.jpg" group-title="Cine",Universal Premiere
