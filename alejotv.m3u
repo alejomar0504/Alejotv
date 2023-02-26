@@ -1,24 +1,12 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="AmericaTV" tvg-name="America TV" tvg-logo="https://pluspng.com/img-png/logo-america-tv-png-file-america-television-logo-2016-png-1261.png" group-title="Nacionales",America TV
-http://168.194.171.33:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_(Peru)_-_2018_logo.png" group-title="Nacionales",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATV + Noticias" tvg-logo="https://th.bing.com/th/id/OIP.I6a4xGRkxTXmDHeceE6isQHaEK?pid=ImgDet&rs=1" group-title="Nacionales",ATV + Noticias
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BHTV" tvg-logo="https://th.bing.com/th/id/OIP.xE81Yq4DfWLVf8YsIT516AHaHa?pid=ImgDet&rs=1" group-title="Nacionales",BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Latina" tvg-logo="https://th.bing.com/th/id/OIP.6BoXLpF4Bjoduy5BZGA8jwAAAA?pid=ImgDet&rs=1" group-title="Nacionales",Latina
-http://168.194.171.33:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Panamericana TV" tvg-logo="https://th.bing.com/th/id/OIP.UCmVN7Cxu4GK4OO3rcehawHaGr?pid=ImgDet&rs=1" group-title="Nacionales",Panamericana TV
-http://168.194.171.33:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Perú" tvg-logo="https://th.bing.com/th/id/R.6da47654b52d8207c08abcf989112e61?rik=Ai7kedWrrVoQUw&pid=ImgRaw&r=0" group-title="Nacionales",TV Perú
-http://168.194.171.33:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="WILLAX" tvg-logo="https://th.bing.com/th/id/OIP.200ZYnb2HqHThbQWnwK_ZgAAAA?pid=ImgDet&rs=1" group-title="Nacionales",WILLAX
-http://168.194.171.33:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="Internacionales",CNN Chile
 http://190.131.228.59:8000/play/a045/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Espanol" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="Internacionales",CNN Espanol
-http://168.194.171.33:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW (Español)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacionales",DW (Español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCN" tvg-logo="https://1.bp.blogspot.com/-p-XT4CsBW78/ULw756abZSI/AAAAAAAABJ0/F58ElQhAAZk/s1600/RCN.gif" group-title="Internacionales",RCN
