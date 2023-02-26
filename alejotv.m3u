@@ -51,8 +51,6 @@ http://190.131.228.59:8000/play/a09a/index.m3u8
 http://190.131.228.59:8000/play/a0jh/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cine",HBO Family
 http://190.131.228.59:8000/play/a0j5/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="https://th.bing.com/th/id/OIP.FJuuK8NogloOPGhM2Gq5-AHaHa?pid=ImgDet&rs=1" group-title="Cine",HBO HD
-http://181.78.24.67:8010/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Plus" tvg-logo="https://th.bing.com/th/id/OIP.5X1p4HDWZ7szAt15sXKxnQAAAA?pid=ImgDet&rs=1" group-title="Cine",HBO Plus
 http://190.131.228.59:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Pop" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" group-title="Cine",HBO Pop
