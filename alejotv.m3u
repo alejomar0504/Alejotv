@@ -24,7 +24,7 @@ http://190.131.228.59:8000/play/a0rm/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT (Español)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/640px-Russia-today-logo.svg.png" group-title="Internacionales",RT (Español)
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="https://th.bing.com/th/id/OIP.iBh3TEBPvoU0J72Z4KlmtgAAAA?pid=ImgDet&rs=1" group-title="Cultura",Animal Planet
-http://190.131.228.59:8000/play/a0rq/index.m3u8
+http://190.61.102.67:8000/play/a04o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel" tvg-logo="https://www.theglobaldispatch.com/wp-content/uploads/2016/08/Discovery-Channel-logo.jpg" group-title="Cultura",Discovery Channel
 http://45.190.13.50:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Home & Health" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0-300x300.png" group-title="Cultura",Discovery Home & Health
@@ -46,13 +46,9 @@ http://45.190.13.50:8003/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/1876/brand.gif?itok=mTGdw22i" group-title="Cine",A&E
 http://181.65.154.170:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="https://th.bing.com/th/id/R.3a7262f98b81c6c03f2e43731c02580e?rik=dUHuOjrdvRIBbA&pid=ImgRaw&r=0" group-title="Cine",AMC
-http://190.131.228.59:8000/play/a0jc/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atres Series" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e2/Atresseries.png/revision/latest?cb=20160120113332" group-title="Cine",Atres Series
-http://181.65.154.170:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Autentica TV" tvg-logo="https://th.bing.com/th/id/OIP.DeD3RoLD5waSuwDEJejilwHaHa?pid=ImgDet&rs=1" group-title="Cine",Autentica TV
-http://181.65.154.170:8000/play/10/index.m3u8
+http://190.61.102.67:8000/play/a04s
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN" tvg-logo="https://th.bing.com/th/id/OIP.O54zX2bMEAh7w7cfX-FfrAAAAA?pid=ImgDet&rs=1" group-title="Cine",AXN
-http://45.190.13.50:8003/play/a02r/index.m3u8
+http://190.61.102.67:8000/play/a07a
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinecanal" tvg-logo="https://th.bing.com/th/id/OIP.aeyVQHm3N10WxJwwImkzQAAAAA?pid=ImgDet&rs=1" group-title="Cine",Cinecanal
 http://45.190.13.50:8003/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://th.bing.com/th/id/R.9158398a6c748acaa72f9e980ea8bcbc?rik=0hJUfPuwBEpnSQ&pid=ImgRaw&r=0" group-title="Cine",Cinemax
@@ -160,7 +156,7 @@ http://181.78.84.39:8000/play/espn2_cx
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 3" tvg-logo="https://th.bing.com/th/id/R.c11dc50d91de0d9fdb730e742039e074?rik=w2aIN0mHr8HwaQ&pid=ImgRaw&r=0" group-title="Deportes",ESPN 3
 http://190.131.228.59:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 4" tvg-logo="https://th.bing.com/th/id/OIP.gj0dYxI3gT7WaPsosO0LXwAAAA?pid=ImgDet&rs=1" group-title="Deportes",ESPN 4
-http://190.131.228.59:8000/play/a0rg/index.m3u8
+http://190.61.102.67:8000/play/a079
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 1" tvg-logo="https://i.pinimg.com/originals/f5/2a/cc/f52acc512f4d7f89fb309124c3d56849.jpg" group-title="Deportes",Fox Sports 1
 http://190.131.228.59:8000/play/a0j3/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2" tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="Deportes",Fox Sports 2
