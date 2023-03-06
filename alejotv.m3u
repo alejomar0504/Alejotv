@@ -1,6 +1,4 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="America TV" tvg-logo="https://i.pinimg.com/originals/24/2c/26/242c2665b552ecd1dcdc573151a547c6.png" group-title="Nacionales",America TV
-http://181.65.154.170:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_(Peru)_-_2018_logo.png" group-title="Nacionales",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATV + Noticias" tvg-logo="https://th.bing.com/th/id/OIP.I6a4xGRkxTXmDHeceE6isQHaEK?pid=ImgDet&rs=1" group-title="Nacionales",ATV + Noticias
