@@ -1,119 +1,117 @@
 #EXTM3U 
-#EXTINF: -1 tvg-name="SCOOBY DOO" tvg-chno="443" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztKVRQb_WANmZHLDaH9dlZ_5ujs9QkGAlGZMQXFGOwg&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztKVRQb_WANmZHLDaH9dlZ_5ujs9QkGAlGZMQXFGOwg&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztKVRQb_WANmZHLDaH9dlZ_5ujs9QkGAlGZMQXFGOwg&s" group-title="24/7", SCOOBY DOO
-http://cincotv.org:25461/Fermand693/Toapa475/23854
-#EXTINF: -1 tvg-name="EL CHAVO DEL 8" tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/El_Chavo_%28simple_logo%29.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/a/ab/El_Chavo_%28simple_logo%29.svg" group-title="24/7", EL CHAVO DEL 8
-http://cincotv.org:25461/Fermand693/Toapa475/186860
-#EXTINF: -1 tvg-name="DRAGON BALL" tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Dragon_Ball_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/86/Dragon_Ball_Logo.png" group-title="24/7", DRAGON BALL
-http://cincotv.org:25461/Fermand693/Toapa475/186859
-#EXTINF: -1 tvg-name="DARK" tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dark_logo.png/1200px-Dark_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dark_logo.png/1200px-Dark_logo.png" group-title="24/7", DARK
-http://cincotv.org:25461/Fermand693/Toapa475/182138
-#EXTINF: -1 tvg-name="BOB ESPONJA" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/1200px-Bob_esponja_logotipo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/1200px-Bob_esponja_logotipo.svg.png" group-title="24/7", BOB ESPONJA
+#EXTINF: -1 tvg-id="BOB ESPONJA" tvg-name="BOB ESPONJA" tvg-chno="53" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/1200px-Bob_esponja_logotipo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/1200px-Bob_esponja_logotipo.svg.png" group-title="24/7", BOB ESPONJA
 http://cincotv.org:25461/Fermand693/Toapa475/186852
-#EXTINF: -1 tvg-name="HISTORY CHANNEL" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="Cultura", HISTORY CHANNEL
-http://cincotv.org:25461/Fermand693/Toapa475/186509
-#EXTINF: -1 tvg-name="INVESTIGATION DISCOVERY HD" tvg-chno="223" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Cultura", INVESTIGATION DISCOVERY HD
-http://cincotv.org:25461/Fermand693/Toapa475/186501
-#EXTINF: -1 tvg-name="H2 HD" tvg-chno="214" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Cultura", H2 HD
-http://cincotv.org:25461/Fermand693/Toapa475/186507
-#EXTINF: -1 tvg-name="DISCOVERY WORLD HD" tvg-chno="143" tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png" tvg-logo-small="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png" group-title="Cultura", DISCOVERY WORLD HD
-http://cincotv.org:25461/Fermand693/Toapa475/186506
-#EXTINF: -1 tvg-name="ANIMAL PLANET" tvg-chno="47" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Cultura", ANIMAL PLANET
-http://cincotv.org:25461/Fermand693/Toapa475/186793
-#EXTINF: -1 tvg-name="WOW TV" tvg-chno="510" tvg-logo="https://cdn6.aptoide.com/imgs/c/a/b/cab2f22c7d6c45aae930b298fa5f8564_icon.png" tvg-logo-small="https://cdn6.aptoide.com/imgs/c/a/b/cab2f22c7d6c45aae930b298fa5f8564_icon.png" group-title="Peliculas", WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF: -1 tvg-name="WARNER HD" tvg-chno="509" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="Peliculas", WARNER HD
-http://cincotv.org:25461/Fermand693/Toapa475/186457
-#EXTINF: -1 tvg-name="Ultra Macho HD" tvg-chno="488" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6g1fMSaRqSHou_lgV9lniGV88DEB7z2aSaxCEEnlc-g&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6g1fMSaRqSHou_lgV9lniGV88DEB7z2aSaxCEEnlc-g&s" group-title="Peliculas", Ultra Macho HD
-http://cincotv.org:25461/Fermand693/Toapa475/226544
-#EXTINF: -1 tvg-name="Ultra Kidz HD" tvg-chno="487" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJT4qC9UV3aLD4rJsgBUxgM715f5R9VXDvFNA-9wS-w&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJT4qC9UV3aLD4rJsgBUxgM715f5R9VXDvFNA-9wS-w&s" group-title="Peliculas", Ultra Kidz HD
-http://cincotv.org:25461/Fermand693/Toapa475/226543
-#EXTINF: -1 tvg-name="Ultra Familia HD" tvg-chno="486" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJq2URkzVo85iGs9zRQgpHcG2kaA76eCISFCaOWHE-&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJq2URkzVo85iGs9zRQgpHcG2kaA76eCISFCaOWHE-&s" group-title="Peliculas", Ultra Familia HD
-http://cincotv.org:25461/Fermand693/Toapa475/226542
-#EXTINF: -1 tvg-name="Ultra Docu HD" tvg-chno="485" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKkV5jhGEtgwRI2p8SyDQwaGJmV0bMJuGKOD_R04tE0Q&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKkV5jhGEtgwRI2p8SyDQwaGJmV0bMJuGKOD_R04tE0Q&s" group-title="Peliculas", Ultra Docu HD
-http://cincotv.org:25461/Fermand693/Toapa475/226541
-#EXTINF: -1 tvg-name="Ultra Clasico HD" tvg-chno="484" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_clasico_Logo.png" tvg-logo-small="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_clasico_Logo.png" group-title="Peliculas", Ultra Clasico HD
-http://cincotv.org:25461/Fermand693/Toapa475/226540
-#EXTINF: -1 tvg-name="Ultra Cine HD" tvg-chno="483" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPDj14CuFv1utQPR2y__LNAbY6mGUQrgLr_alni0TQA&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPDj14CuFv1utQPR2y__LNAbY6mGUQrgLr_alni0TQA&s" group-title="Peliculas", Ultra Cine HD
-http://cincotv.org:25461/Fermand693/Toapa475/226539
-#EXTINF: -1 tvg-name="TNT SERIES" tvg-chno="465" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="Peliculas", TNT SERIES
-http://cincotv.org:25461/Fermand693/Toapa475/186476
-#EXTINF: -1 tvg-name="TNT HD" tvg-chno="463" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_07/large.5786a2a967697_TNTHD.png.4833fa31a321a2d77c78cd8d8c4fddc3.png" tvg-logo-small="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_07/large.5786a2a967697_TNTHD.png.4833fa31a321a2d77c78cd8d8c4fddc3.png" group-title="Peliculas", TNT HD
-http://cincotv.org:25461/Fermand693/Toapa475/186477
-#EXTINF: -1 tvg-name="USA TV" tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Peliculas", USA TV
-http://cincotv.org:25461/Fermand693/Toapa475/186480
-#EXTINF: -1 tvg-name="SPACE" tvg-chno="412" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="Peliculas", SPACE
-http://cincotv.org:25461/Fermand693/Toapa475/188847
-#EXTINF: -1 tvg-name="SONY MOVIES" tvg-chno="411" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlach2tVIoNiQtyWiXr5vbZJ__GVo4V_LM1aHK0HeqjQ&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlach2tVIoNiQtyWiXr5vbZJ__GVo4V_LM1aHK0HeqjQ&s" group-title="Peliculas", SONY MOVIES
-http://cincotv.org:25461/Fermand693/Toapa475/186493
-#EXTINF: -1 tvg-name="SONY CHANEL" tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Peliculas", SONY CHANEL
-http://cincotv.org:25461/Fermand693/Toapa475/186500
-#EXTINF: -1 tvg-name="HBO POP HD" tvg-chno="409" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Peliculas", HBO POP HD
-http://cincotv.org:25461/Fermand693/Toapa475/186499
-#EXTINF: -1 tvg-name="HBO PLUS HD" tvg-chno="408" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="Peliculas", HBO PLUS HD
-http://cincotv.org:25461/Fermand693/Toapa475/186498
-#EXTINF: -1 tvg-name="HBO MUNDI HD" tvg-chno="406" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="Peliculas", HBO MUNDI HD
-http://cincotv.org:25461/Fermand693/Toapa475/186496
-#EXTINF: -1 tvg-name="HBO FAMILY" tvg-chno="405" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Peliculas", HBO FAMILY
-http://cincotv.org:25461/Fermand693/Toapa475/186482
-#EXTINF: -1 tvg-name="HBO HD" tvg-chno="404" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="Peliculas", HBO HD
-http://cincotv.org:25461/Fermand693/Toapa475/24302
-#EXTINF: -1 tvg-name="HBO 2" tvg-chno="401" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Peliculas", HBO 2
-http://cincotv.org:25461/Fermand693/Toapa475/186483
-#EXTINF: -1 tvg-name="GOLDEN PREMIER HD" tvg-chno="400" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMV08X7UBJVKvR4GDGnggWFWv-9MfgwPmzSM6xHOhj1w&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMV08X7UBJVKvR4GDGnggWFWv-9MfgwPmzSM6xHOhj1w&s" group-title="Peliculas", GOLDEN PREMIER HD
-http://cincotv.org:25461/Fermand693/Toapa475/186479
-#EXTINF: -1 tvg-name="GOLDEN PLUS FHD" tvg-chno="399" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeEkwLBTI9CeucXLxgPv3f3Q421jyFKSwrbnr23vJK4A&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeEkwLBTI9CeucXLxgPv3f3Q421jyFKSwrbnr23vJK4A&s" group-title="Peliculas", GOLDEN PLUS FHD
-http://cincotv.org:25461/Fermand693/Toapa475/186492
-#EXTINF: -1 tvg-name="GOLDEN HD" tvg-chno="398" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_Golden_TV.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_Golden_TV.svg" group-title="Peliculas", GOLDEN HD
-http://cincotv.org:25461/Fermand693/Toapa475/186491
-#EXTINF: -1 tvg-name="GOLDEN EDGE HD" tvg-chno="397" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Peliculas", GOLDEN EDGE HD
-http://cincotv.org:25461/Fermand693/Toapa475/186490
-#EXTINF: -1 tvg-name="DHE HD" tvg-chno="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas", DHE HD
-http://cincotv.org:25461/Fermand693/Toapa475/186481
-#EXTINF: -1 tvg-name="PLANETATV FAMILY" tvg-chno="317" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQga8pGafWZBzueCjE4s_MNRLS9UQeIen87hJV5pEFTDg&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQga8pGafWZBzueCjE4s_MNRLS9UQeIen87hJV5pEFTDg&s" group-title="Peliculas", PLANETATV FAMILY
-http://cincotv.org:25461/Fermand693/Toapa475/172891
-#EXTINF: -1 tvg-name="FX" tvg-chno="208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Peliculas", FX
-http://cincotv.org:25461/Fermand693/Toapa475/186467
-#EXTINF: -1 tvg-name="CINEMAX HD" tvg-chno="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas", CINEMAX HD
-http://cincotv.org:25461/Fermand693/Toapa475/186452
-#EXTINF: -1 tvg-name="CINEMA TERROR" tvg-chno="108" tvg-logo="https://e7.pngegg.com/pngimages/764/685/png-clipart-youtube-horror-film-scary-movie-comedy-horror-television-text.png" tvg-logo-small="https://e7.pngegg.com/pngimages/764/685/png-clipart-youtube-horror-film-scary-movie-comedy-horror-television-text.png" group-title="Peliculas", CINEMA TERROR
-http://cincotv.org:25461/Fermand693/Toapa475/139701
-#EXTINF: -1 tvg-name="CINEMA LEGO MOVIES" tvg-chno="107" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/The_Lego_Movie_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/3/38/The_Lego_Movie_logo.png" group-title="Peliculas", CINEMA LEGO MOVIES
-http://cincotv.org:25461/Fermand693/Toapa475/139702
-#EXTINF: -1 tvg-name="CINEMA FAMILIA" tvg-chno="106" tvg-logo="https://i.pinimg.com/564x/49/e2/d7/49e2d72c9a05d3ee6cf346bc891ced9f.jpg" tvg-logo-small="https://i.pinimg.com/564x/49/e2/d7/49e2d72c9a05d3ee6cf346bc891ced9f.jpg" group-title="Peliculas", CINEMA FAMILIA
-http://cincotv.org:25461/Fermand693/Toapa475/139699
-#EXTINF: -1 tvg-name="CINEMA COMEDIA" tvg-chno="105" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" tvg-logo-small="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="Peliculas", CINEMA COMEDIA
-http://cincotv.org:25461/Fermand693/Toapa475/139700
-#EXTINF: -1 tvg-name="CINE PREMIUM" tvg-chno="101" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png" tvg-logo-small="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png" group-title="Peliculas", CINE PREMIUM
-http://cincotv.org:25461/Fermand693/Toapa475/173277
-#EXTINF: -1 tvg-name="AXN" tvg-chno="58" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Peliculas", AXN
-http://cincotv.org:25461/Fermand693/Toapa475/186464
-#EXTINF: -1 tvg-name="AMC" tvg-chno="46" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Peliculas", AMC
-http://cincotv.org:25461/Fermand693/Toapa475/186463
-#EXTINF: -1 tvg-name="A&E" tvg-chno="43" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoBTD3yx0x7-M9aTSA8KdnOw4UAny3wAmmT8O07JYjw&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoBTD3yx0x7-M9aTSA8KdnOw4UAny3wAmmT8O07JYjw&s" group-title="Peliculas", A&E
-http://cincotv.org:25461/Fermand693/Toapa475/186462
-#EXTINF: -1 tvg-name="TYC SPORTS FHD" tvg-chno="481" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="Deportes", TYC SPORTS FHD
-http://cincotv.org:25461/Fermand693/Toapa475/186514
-#EXTINF: -1 tvg-name="TNT SPORTS ARGENTINA HD" tvg-chno="466" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT SPORTS ARGENTINA HD
-http://cincotv.org:25461/Fermand693/Toapa475/186515
-#EXTINF: -1 tvg-name="LIGA 1 MAX HD" tvg-chno="309" tvg-logo="https://claroperuqa.vtexassets.com/arquivos/ids/1667923/liga-1-max.png?v=638425720379200000" tvg-logo-small="https://claroperuqa.vtexassets.com/arquivos/ids/1667923/liga-1-max.png?v=638425720379200000" group-title="Deportes", LIGA 1 MAX HD
-http://cincotv.org:25461/Fermand693/Toapa475/81984
-#EXTINF: -1 tvg-name="GOL PERU" tvg-chno="305" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/golperu_logo_horizontal1-1.jpg" tvg-logo-small="https://brandemia.org/sites/default/files/sites/default/files/golperu_logo_horizontal1-1.jpg" group-title="Deportes", GOL PERU
-http://cincotv.org:25461/Fermand693/Toapa475/186821
-#EXTINF: -1 tvg-name="DAZN LA LIGA HD" tvg-chno="133" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaGBtKu3R-hA583w2Y6f64LHiSrPF_wbtcUnamDty8gA&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaGBtKu3R-hA583w2Y6f64LHiSrPF_wbtcUnamDty8gA&s" group-title="Deportes", DAZN LA LIGA HD
-http://cincotv.org:25461/Fermand693/Toapa475/89730
-#EXTINF: -1 tvg-name="TLC HD" tvg-chno="461" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhduugi11znpPnQ5YEee9LjrKj_Yq0oQt28fFggQX&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhduugi11znpPnQ5YEee9LjrKj_Yq0oQt28fFggQX&s" group-title="Entretenimiento", TLC HD
-http://cincotv.org:25461/Fermand693/Toapa475/186513
-#EXTINF: -1 tvg-name="GOURMET HD" tvg-chno="177" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretenimiento", GOURMET HD
-http://cincotv.org:25461/Fermand693/Toapa475/186438
-#EXTINF: -1 tvg-name="COMEDY CENTRAL" tvg-chno="139" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Entretenimiento", COMEDY CENTRAL
-http://cincotv.org:25461/Fermand693/Toapa475/186443
-#EXTINF: -1 tvg-name="ADULT SWIM" tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg" group-title="Entretenimiento", ADULT SWIM
-http://cincotv.org:25461/Fermand693/Toapa475/186992
-#EXTINF: -1 tvg-name="E! Entertainment" tvg-chno="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="Entretenimiento", E! Entertainment
-http://cincotv.org:25461/Fermand693/Toapa475/186991
-#EXTINF: -1 tvg-name="DISNEY JUNIOR" tvg-chno="135" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLL_BBkZzVG8ybmRZFBOpS2NZ_ANVfdMC6yipfExQemg&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLL_BBkZzVG8ybmRZFBOpS2NZ_ANVfdMC6yipfExQemg&s" group-title="Entretenimiento", DISNEY JUNIOR
-http://cincotv.org:25461/Fermand693/Toapa475/23757
-#EXTINF: -1 tvg-name="CARTOON NETWORK" tvg-chno="72" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Entretenimiento", CARTOON NETWORK
-http://cincotv.org:25461/Fermand693/Toapa475/186444
-#EXTINF: -1 tvg-name="DRAGON BALL Z" tvg-chno="10" tvg-logo="https://i.pinimg.com/736x/a2/4d/86/a24d867150738ad7032599d92274007c.jpg" tvg-logo-small="https://i.pinimg.com/736x/a2/4d/86/a24d867150738ad7032599d92274007c.jpg" group-title="Entretenimiento", DRAGON BALL Z
+#EXTINF: -1 tvg-name="DARK" tvg-chno="54" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dark_logo.png/1200px-Dark_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dark_logo.png/1200px-Dark_logo.png" group-title="24/7", DARK
+http://cincotv.org:25461/Fermand693/Toapa475/182138
+#EXTINF: -1 tvg-name="DRAGON BALL" tvg-chno="55" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Dragon_Ball_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/86/Dragon_Ball_Logo.png" group-title="24/7", DRAGON BALL
+http://cincotv.org:25461/Fermand693/Toapa475/186859
+#EXTINF: -1 tvg-name="EL CHAVO DEL 8" tvg-chno="56" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/El_Chavo_%28simple_logo%29.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/a/ab/El_Chavo_%28simple_logo%29.svg" group-title="24/7", EL CHAVO DEL 8
+http://cincotv.org:25461/Fermand693/Toapa475/186860
+#EXTINF: -1 tvg-name="SCOOBY DOO" tvg-chno="57" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztKVRQb_WANmZHLDaH9dlZ_5ujs9QkGAlGZMQXFGOwg&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztKVRQb_WANmZHLDaH9dlZ_5ujs9QkGAlGZMQXFGOwg&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztKVRQb_WANmZHLDaH9dlZ_5ujs9QkGAlGZMQXFGOwg&s" group-title="24/7", SCOOBY DOO
+http://cincotv.org:25461/Fermand693/Toapa475/23854
+#EXTINF: -1 tvg-name="DRAGON BALL Z" tvg-chno="58" tvg-logo="https://i.pinimg.com/736x/a2/4d/86/a24d867150738ad7032599d92274007c.jpg" tvg-logo-small="https://i.pinimg.com/736x/a2/4d/86/a24d867150738ad7032599d92274007c.jpg" group-title="24/7", DRAGON BALL Z
 http://cincotv.org:25461/Fermand693/Toapa475/186854
+#EXTINF: -1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="Cultura", ANIMAL PLANET
+http://cincotv.org:25461/Fermand693/Toapa475/186793
+#EXTINF: -1 tvg-id="DISCOVERY WORLD HD" tvg-name="DISCOVERY WORLD HD" tvg-chno="2" tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png" tvg-logo-small="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png" group-title="Cultura", DISCOVERY WORLD HD
+http://cincotv.org:25461/Fermand693/Toapa475/186506
+#EXTINF: -1 tvg-id="H2 HD" tvg-name="H2 HD" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Cultura", H2 HD
+http://cincotv.org:25461/Fermand693/Toapa475/186507
+#EXTINF: -1 tvg-id="HISTORY CHANNEL" tvg-name="HISTORY CHANNEL" tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="Cultura", HISTORY CHANNEL
+http://cincotv.org:25461/Fermand693/Toapa475/186509
+#EXTINF: -1 tvg-id="INVESTIGATION DISCOVERY HD" tvg-name="INVESTIGATION DISCOVERY HD" tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Cultura", INVESTIGATION DISCOVERY HD
+http://cincotv.org:25461/Fermand693/Toapa475/186501
+#EXTINF: -1 tvg-id="A&E" tvg-name="A&E" tvg-chno="11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoBTD3yx0x7-M9aTSA8KdnOw4UAny3wAmmT8O07JYjw&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoBTD3yx0x7-M9aTSA8KdnOw4UAny3wAmmT8O07JYjw&s" group-title="Peliculas", A&E
+http://cincotv.org:25461/Fermand693/Toapa475/186462
+#EXTINF: -1 tvg-id="AMC" tvg-name="AMC" tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Peliculas", AMC
+http://cincotv.org:25461/Fermand693/Toapa475/186463
+#EXTINF: -1 tvg-id="AXN" tvg-name="AXN" tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Peliculas", AXN
+http://cincotv.org:25461/Fermand693/Toapa475/186464
+#EXTINF: -1 tvg-id="CINE PREMIUM" tvg-name="CINE PREMIUM" tvg-chno="14" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png" tvg-logo-small="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png" group-title="Peliculas", CINE PREMIUM
+http://cincotv.org:25461/Fermand693/Toapa475/173277
+#EXTINF: -1 tvg-id="CINEMA COMEDIA" tvg-name="CINEMA COMEDIA" tvg-chno="15" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" tvg-logo-small="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="Peliculas", CINEMA COMEDIA
+http://cincotv.org:25461/Fermand693/Toapa475/139700
+#EXTINF: -1 tvg-id="CINEMA FAMILIA" tvg-name="CINEMA FAMILIA" tvg-chno="16" tvg-logo="https://i.pinimg.com/564x/49/e2/d7/49e2d72c9a05d3ee6cf346bc891ced9f.jpg" tvg-logo-small="https://i.pinimg.com/564x/49/e2/d7/49e2d72c9a05d3ee6cf346bc891ced9f.jpg" group-title="Peliculas", CINEMA FAMILIA
+http://cincotv.org:25461/Fermand693/Toapa475/139699
+#EXTINF: -1 tvg-id="CINEMA LEGO MOVIES" tvg-name="CINEMA LEGO MOVIES" tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/The_Lego_Movie_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/3/38/The_Lego_Movie_logo.png" group-title="Peliculas", CINEMA LEGO MOVIES
+http://cincotv.org:25461/Fermand693/Toapa475/139702
+#EXTINF: -1 tvg-name="CINEMA TERROR" tvg-chno="18" tvg-logo="https://e7.pngegg.com/pngimages/764/685/png-clipart-youtube-horror-film-scary-movie-comedy-horror-television-text.png" tvg-logo-small="https://e7.pngegg.com/pngimages/764/685/png-clipart-youtube-horror-film-scary-movie-comedy-horror-television-text.png" group-title="Peliculas", CINEMA TERROR
+http://cincotv.org:25461/Fermand693/Toapa475/139701
+#EXTINF: -1 tvg-name="CINEMAX HD" tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas", CINEMAX HD
+http://cincotv.org:25461/Fermand693/Toapa475/186452
+#EXTINF: -1 tvg-name="DHE HD" tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas", DHE HD
+http://cincotv.org:25461/Fermand693/Toapa475/186481
+#EXTINF: -1 tvg-name="FX" tvg-chno="21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdBEA8SetVnnasyIw7Fw12X4VgwVpzaHq5pwuP94bXYg&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdBEA8SetVnnasyIw7Fw12X4VgwVpzaHq5pwuP94bXYg&s" group-title="Peliculas", FX
+http://cincotv.org:25461/Fermand693/Toapa475/186467
+#EXTINF: -1 tvg-name="GOLDEN EDGE HD" tvg-chno="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Peliculas", GOLDEN EDGE HD
+http://cincotv.org:25461/Fermand693/Toapa475/186490
+#EXTINF: -1 tvg-name="GOLDEN HD" tvg-chno="23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_Golden_TV.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_Golden_TV.svg" group-title="Peliculas", GOLDEN HD
+http://cincotv.org:25461/Fermand693/Toapa475/186491
+#EXTINF: -1 tvg-name="GOLDEN PLUS FHD" tvg-chno="24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeEkwLBTI9CeucXLxgPv3f3Q421jyFKSwrbnr23vJK4A&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeEkwLBTI9CeucXLxgPv3f3Q421jyFKSwrbnr23vJK4A&s" group-title="Peliculas", GOLDEN PLUS FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186492
+#EXTINF: -1 tvg-name="GOLDEN PREMIER HD" tvg-chno="25" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMV08X7UBJVKvR4GDGnggWFWv-9MfgwPmzSM6xHOhj1w&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMV08X7UBJVKvR4GDGnggWFWv-9MfgwPmzSM6xHOhj1w&s" group-title="Peliculas", GOLDEN PREMIER HD
+http://cincotv.org:25461/Fermand693/Toapa475/186479
+#EXTINF: -1 tvg-name="HBO 2" tvg-chno="26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Peliculas", HBO 2
+http://cincotv.org:25461/Fermand693/Toapa475/186483
+#EXTINF: -1 tvg-name="HBO FAMILY" tvg-chno="27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Peliculas", HBO FAMILY
+http://cincotv.org:25461/Fermand693/Toapa475/186482
+#EXTINF: -1 tvg-name="HBO HD" tvg-chno="28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="Peliculas", HBO HD
+http://cincotv.org:25461/Fermand693/Toapa475/24302
+#EXTINF: -1 tvg-name="HBO MUNDI HD" tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="Peliculas", HBO MUNDI HD
+http://cincotv.org:25461/Fermand693/Toapa475/186496
+#EXTINF: -1 tvg-name="HBO PLUS HD" tvg-chno="30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="Peliculas", HBO PLUS HD
+http://cincotv.org:25461/Fermand693/Toapa475/186498
+#EXTINF: -1 tvg-name="HBO POP HD" tvg-chno="31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Peliculas", HBO POP HD
+http://cincotv.org:25461/Fermand693/Toapa475/186499
+#EXTINF: -1 tvg-name="PLANETATV FAMILY" tvg-chno="32" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQga8pGafWZBzueCjE4s_MNRLS9UQeIen87hJV5pEFTDg&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQga8pGafWZBzueCjE4s_MNRLS9UQeIen87hJV5pEFTDg&s" group-title="Peliculas", PLANETATV FAMILY
+http://cincotv.org:25461/Fermand693/Toapa475/172891
+#EXTINF: -1 tvg-name="SONY CHANEL" tvg-chno="33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Peliculas", SONY CHANEL
+http://cincotv.org:25461/Fermand693/Toapa475/186500
+#EXTINF: -1 tvg-name="SONY MOVIES" tvg-chno="34" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlach2tVIoNiQtyWiXr5vbZJ__GVo4V_LM1aHK0HeqjQ&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlach2tVIoNiQtyWiXr5vbZJ__GVo4V_LM1aHK0HeqjQ&s" group-title="Peliculas", SONY MOVIES
+http://cincotv.org:25461/Fermand693/Toapa475/186493
+#EXTINF: -1 tvg-name="SPACE" tvg-chno="35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="Peliculas", SPACE
+http://cincotv.org:25461/Fermand693/Toapa475/188847
+#EXTINF: -1 tvg-name="TNT HD" tvg-chno="36" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_07/large.5786a2a967697_TNTHD.png.4833fa31a321a2d77c78cd8d8c4fddc3.png" tvg-logo-small="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_07/large.5786a2a967697_TNTHD.png.4833fa31a321a2d77c78cd8d8c4fddc3.png" group-title="Peliculas", TNT HD
+http://cincotv.org:25461/Fermand693/Toapa475/186477
+#EXTINF: -1 tvg-name="TNT SERIES" tvg-chno="37" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="Peliculas", TNT SERIES
+http://cincotv.org:25461/Fermand693/Toapa475/186476
+#EXTINF: -1 tvg-name="Ultra Cine HD" tvg-chno="38" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPDj14CuFv1utQPR2y__LNAbY6mGUQrgLr_alni0TQA&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPDj14CuFv1utQPR2y__LNAbY6mGUQrgLr_alni0TQA&s" group-title="Peliculas", Ultra Cine HD
+http://cincotv.org:25461/Fermand693/Toapa475/226539
+#EXTINF: -1 tvg-name="Ultra Clasico HD" tvg-chno="39" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_clasico_Logo.png" tvg-logo-small="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_clasico_Logo.png" group-title="Peliculas", Ultra Clasico HD
+http://cincotv.org:25461/Fermand693/Toapa475/226540
+#EXTINF: -1 tvg-name="Ultra Familia HD" tvg-chno="40" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJq2URkzVo85iGs9zRQgpHcG2kaA76eCISFCaOWHE-&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJq2URkzVo85iGs9zRQgpHcG2kaA76eCISFCaOWHE-&s" group-title="Peliculas", Ultra Familia HD
+http://cincotv.org:25461/Fermand693/Toapa475/226542
+#EXTINF: -1 tvg-name="Ultra Kidz HD" tvg-chno="41" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJT4qC9UV3aLD4rJsgBUxgM715f5R9VXDvFNA-9wS-w&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJT4qC9UV3aLD4rJsgBUxgM715f5R9VXDvFNA-9wS-w&s" group-title="Peliculas", Ultra Kidz HD
+http://cincotv.org:25461/Fermand693/Toapa475/226543
+#EXTINF: -1 tvg-name="Ultra Macho HD" tvg-chno="42" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6g1fMSaRqSHou_lgV9lniGV88DEB7z2aSaxCEEnlc-g&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6g1fMSaRqSHou_lgV9lniGV88DEB7z2aSaxCEEnlc-g&s" group-title="Peliculas", Ultra Macho HD
+http://cincotv.org:25461/Fermand693/Toapa475/226544
+#EXTINF: -1 tvg-name="USA TV" tvg-chno="43" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Peliculas", USA TV
+http://cincotv.org:25461/Fermand693/Toapa475/186480
+#EXTINF: -1 tvg-name="WARNER HD" tvg-chno="44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="Peliculas", WARNER HD
+http://cincotv.org:25461/Fermand693/Toapa475/186457
+#EXTINF: -1 tvg-name="WOW TV" tvg-chno="45" tvg-logo="https://cdn6.aptoide.com/imgs/c/a/b/cab2f22c7d6c45aae930b298fa5f8564_icon.png" tvg-logo-small="https://cdn6.aptoide.com/imgs/c/a/b/cab2f22c7d6c45aae930b298fa5f8564_icon.png" group-title="Peliculas", WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="DAZN LA LIGA HD" tvg-name="DAZN LA LIGA HD" tvg-chno="6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaGBtKu3R-hA583w2Y6f64LHiSrPF_wbtcUnamDty8gA&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaGBtKu3R-hA583w2Y6f64LHiSrPF_wbtcUnamDty8gA&s" group-title="Deportes", DAZN LA LIGA HD
+http://cincotv.org:25461/Fermand693/Toapa475/89730
+#EXTINF: -1 tvg-id="GOL PERU" tvg-name="GOL PERU" tvg-chno="7" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/golperu_logo_horizontal1-1.jpg" tvg-logo-small="https://brandemia.org/sites/default/files/sites/default/files/golperu_logo_horizontal1-1.jpg" group-title="Deportes", GOL PERU
+http://cincotv.org:25461/Fermand693/Toapa475/186821
+#EXTINF: -1 tvg-id="LIGA 1 MAX HD" tvg-name="LIGA 1 MAX HD" tvg-chno="8" tvg-logo="https://claroperuqa.vtexassets.com/arquivos/ids/1667923/liga-1-max.png?v=638425720379200000" tvg-logo-small="https://claroperuqa.vtexassets.com/arquivos/ids/1667923/liga-1-max.png?v=638425720379200000" group-title="Deportes", LIGA 1 MAX HD
+http://cincotv.org:25461/Fermand693/Toapa475/81984
+#EXTINF: -1 tvg-id="TNT SPORTS ARGENTINA HD" tvg-name="TNT SPORTS ARGENTINA HD" tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT SPORTS ARGENTINA HD
+http://cincotv.org:25461/Fermand693/Toapa475/186515
+#EXTINF: -1 tvg-id="TYC SPORTS FHD" tvg-name="TYC SPORTS FHD" tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="Deportes", TYC SPORTS FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186514
+#EXTINF: -1 tvg-name="ADULT SWIM" tvg-chno="46" tvg-logo="https://logos-world.net/wp-content/uploads/2023/01/Adult-Swim-Logo.png" tvg-logo-small="https://logos-world.net/wp-content/uploads/2023/01/Adult-Swim-Logo.png" group-title="Entretenimiento", ADULT SWIM
+http://cincotv.org:25461/Fermand693/Toapa475/186992
+#EXTINF: -1 tvg-name="CARTOON NETWORK" tvg-chno="47" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Entretenimiento", CARTOON NETWORK
+http://cincotv.org:25461/Fermand693/Toapa475/186444
+#EXTINF: -1 tvg-name="COMEDY CENTRAL" tvg-chno="48" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Entretenimiento", COMEDY CENTRAL
+http://cincotv.org:25461/Fermand693/Toapa475/186443
+#EXTINF: -1 tvg-name="DISNEY JUNIOR" tvg-chno="49" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLL_BBkZzVG8ybmRZFBOpS2NZ_ANVfdMC6yipfExQemg&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLL_BBkZzVG8ybmRZFBOpS2NZ_ANVfdMC6yipfExQemg&s" group-title="Entretenimiento", DISNEY JUNIOR
+http://cincotv.org:25461/Fermand693/Toapa475/23757
+#EXTINF: -1 tvg-name="E! Entertainment" tvg-chno="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="Entretenimiento", E! Entertainment
+http://cincotv.org:25461/Fermand693/Toapa475/186991
+#EXTINF: -1 tvg-name="GOURMET HD" tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretenimiento", GOURMET HD
+http://cincotv.org:25461/Fermand693/Toapa475/186438
+#EXTINF: -1 tvg-name="TLC HD" tvg-chno="52" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhduugi11znpPnQ5YEee9LjrKj_Yq0oQt28fFggQX&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhduugi11znpPnQ5YEee9LjrKj_Yq0oQt28fFggQX&s" group-title="Entretenimiento", TLC HD
+http://cincotv.org:25461/Fermand693/Toapa475/186513
