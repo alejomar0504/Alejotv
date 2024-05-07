@@ -1,62 +1,1106 @@
-#EXTINF:-1,Gourmet
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenCo7AEJ1Ct9ppyFrNi70EJM/ts
-#EXTINF:-1,CNN
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenIhjD-t4jQrGBs7c0zIhX9dpb9U4RvtJFHp8HbEYZIpY/ts
-#EXTINF:-1,STAR_CHANNEL
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkE-jQwP01vUezVAcAY78lZ
-#EXTINF:-1,UNIVERSAL_TV
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBlEeBm5S7FSacQFssvaSC5J
-#EXTINF:-1,WARNER_TV
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkA_hU21c7IWwSuyBOdIlCf
-#EXTINF:-1,TNT
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBk7QMSPkNoa1Uj0sWFKxFa4
-#EXTINF:-1,CINEMAX
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkJ5mqExubRx6gYad7tPSv8
-#EXTINF:-1,CINECANAL
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBk0V-wGyoTsmhJirdVzXGyL
-#EXTINF:-1,HBO
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkPkIkLT1sWjMEdO3M6rUsO
-#EXTINF:-1,HBO_FAMILY
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBlGaqye_73WL6cGcVgX7PTu
-#EXTINF:-1,Hbo Plus
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkT9U--yIHl7NlRNWm55a2M
-#EXTINF:-1,CINE - HBO 2
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBlQQhc1xH0XbO2eFeDCPgWj
-#EXTINF:-1,CINE - HBO Mundi
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBnn9DZO_f-rMR9cokUl8mIZ
-#EXTINF:-1,CINE - HBO signature
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkqRjELDG3FzQzDtKPHNVZL
-#EXTINF:-1,Space
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBlSNWWHxi4nHnQgPDZnVB0g
-#EXTINF:-1,Fx HD
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkpwjo1cPX6ILa_G7VjFOwy
-#EXTINF:-1,Paramount
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkKixMpiAt8U7_jtRxZ1Dnu
-#EXTINF:-1,TnT Series
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkhEXej5UxMSKwJ0yEDWk2l
-#EXTINF:-1,DeporTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1,TNT SPORTS
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19461
-#EXTINF:-1,FoxSports
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36387
-#EXTINF:-1,Fox Sports 2 ARG
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186606
-#EXTINF:-1,Fox Sports 3
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36389
-#EXTINF:-1,ESPN
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219171
-#EXTINF:-1,ESPN 2
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185666
-#EXTINF:-1,ESPN 3
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21220
-#EXTINF:-1,ESPN extra
+#EXTINF:-1, CUL | Animal Planet HD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/229242
+#EXTINF:-1, CUL | Discovery Science FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36466
+#EXTINF:-1, CUL | Discovery TLC FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242009
+#EXTINF:-1, CUL | Discovery Turbo HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54283
+#EXTINF:-1, CUL | History Channel HD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242013
+#EXTINF:-1, CUL | Nat Geo SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242015
+#EXTINF:-1, CUL | Discovery TLC
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/268886
+#EXTINF:-1, CUL | Love Nature
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276310
+#EXTINF:-1, CUL | Discovery Channel Lat
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186572
+#EXTINF:-1, CUL | Discovery Home & Health FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242008
+#EXTINF:-1, CUL | Animal Planet SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276193
+#EXTINF:-1, CUL | Discovery Channel SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/93442
+#EXTINF:-1, CUL | Discovery Channel FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9520
+#EXTINF:-1, CUL | Discovery World FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53077
+#EXTINF:-1, CUL | Discovery World SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9516
+#EXTINF:-1, CUL | History 2 FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/105685
+#EXTINF:-1, CUL | History FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53074
+#EXTINF:-1, CUL | Investigation Discovery SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53051
+#EXTINF:-1, CUL | NAT GEO Mundo
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54154
+#EXTINF:-1, CUL | Discovery TLC HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/199201
+#EXTINF:-1, CUL | History Channel SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186570
+#EXTINF:-1, CUL | Investigation Discovery SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36458
+#EXTINF:-1, CUL | Animal Planet HD op2
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9517
+#EXTINF:-1, CUL | Discovery Home & Health LAT
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/273322
+#EXTINF:-1, CUL | Discovery Home & Health FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439759
+#EXTINF:-1, CUL | History 2 SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439767
+#EXTINF:-1, CUL | Discovery Theater FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439786
+#EXTINF:-1, CUL | Nat Geo FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439788
+#EXTINF:-1, CUL | Investigation Discovery FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439789
+#EXTINF:-1, CUL | Animal Planet NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439824
+#EXTINF:-1, CUL | Saber Mas HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453808
+#EXTINF:-1, CUL | Canal Cocina
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453809
+#EXTINF:-1, CUL | Discovery Familia
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/10769
+#EXTINF:-1, CUL | Discovery Home & Health SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53078
+#EXTINF:-1, CUL | Discovery Turbo SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19505
+#EXTINF:-1, CUL | DW América
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/181177
+#EXTINF:-1, CUL | HGTV MX
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/178146
+#EXTINF:-1, CUL | History 2 HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19542
+#EXTINF:-1, CUL | NAT GEO Wild SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36470
+#EXTINF:-1, CUL | Discovery TLC HD MEX
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19596
+#EXTINF:-1, CUL | Discovery en Español  HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/452236
+#EXTINF:-1, CUL | Natgeo Wild
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/452237
+#EXTINF:-1, CUL | HGTV HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/452238
+#EXTINF:-1, EN | SONY Novelas
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276161
+#EXTINF:-1, EN | SONY Comedias
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276162
+#EXTINF:-1, EN | SONY Competencias
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/218342
+#EXTINF:-1, SONY NOVELAS
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/218340
+#EXTINF:-1, EN | A&E HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9547
+#EXTINF:-1, EN | A3series
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53059
+#EXTINF:-1, EN | Comedy Central SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53049
+#EXTINF:-1, EN | Distrito Comedia SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9565
+#EXTINF:-1, EN | Distrito Comedia HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9412
+#EXTINF:-1, EN | E! Entertainment SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9405
+#EXTINF:-1, EN | El Gourmet FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9408
+#EXTINF:-1, EN | A3Series
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/211198
+#EXTINF:-1, EN | Food Network HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9554
+#EXTINF:-1, EN | Lifetime  SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19536
+#EXTINF:-1, EN | TNT Series SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53054
+#EXTINF:-1, EN | Warner TV SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53044
+#EXTINF:-1, EN | NBC Universo
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/199524
+#EXTINF:-1, EN | Kanal D Drama FHD ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/183185
+#EXTINF:-1, EN | Hola TV FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9397
+#EXTINF:-1, EN | FX SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9546
+#EXTINF:-1, EN | TNT Series FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9560
+#EXTINF:-1, EN | Tru TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19466
+#EXTINF:-1, EN | El Garage SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19529
+#EXTINF:-1, EN | Food Network  FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19583
+#EXTINF:-1, EN | Estrella TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/51169
+#EXTINF:-1, EN | Sony Channel HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53039
+#EXTINF:-1, EN | Warner TV FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53040
+#EXTINF:-1, EN | Glitz
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54399
+#EXTINF:-1, EN | FX HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/167656
+#EXTINF:-1, EN | El Gourmet HD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186629
+#EXTINF:-1, EN | Antena 3 Internacional
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/211202
+#EXTINF:-1, EN | Sony SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/211310
+#EXTINF:-1, EN | Comedy Central FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/241997
+#EXTINF:-1, EN | E! Entertaiment FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/241998
+#EXTINF:-1, EN | FX FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242001
+#EXTINF:-1, EN | Lifetime  FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242002
+#EXTINF:-1, EN | Unicable FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242004
+#EXTINF:-1, EN | Pasiones SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242017
+#EXTINF:-1, EN | E! Entertainment FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242054
+#EXTINF:-1, EN | ETC TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/394826
+#EXTINF:-1, EN | Warner TV SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439740
+#EXTINF:-1, EN | Sony Channel FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439743
+#EXTINF:-1, EN | TNT Series FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439780
+#EXTINF:-1, EN | Pasiones FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439781
+#EXTINF:-1, EN | Sony Channel FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439783
+#EXTINF:-1, EN | Maschic SD*
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439827
+#EXTINF:-1, EN | Distrito comedia
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469064
+#EXTINF:-1, DEP | Adrenalina Sports
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/71832
+#EXTINF:-1, DEP | Afizzionados HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54984
+#EXTINF:-1, DEP  | Band Sports BRA
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/48534
+#EXTINF:-1, DEP | Bein Sports Ñ
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36401
+#EXTINF:-1, DEP | Bein Sports Ñ SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/228360
+#EXTINF:-1, DEP | CDO Básico SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/12826
+#EXTINF:-1, DEP | Claro Sports HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/164262
+#EXTINF:-1, DEP | DirecTV Sports 1 ARG HD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158511
+#EXTINF:-1, DEP | DirecTV Sports FHD ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158506
+#EXTINF:-1, DEP | DirecTV Sports 2 HD COL
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/257326
+#EXTINF:-1, DEP | DirecTV Sports 2 SD ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158513
+#EXTINF:-1, DEP | ESPN Extra  MX
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21229
-#EXTINF:-1,Encuentro
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-#EXTINF:-1,NatGeo
-http://tv.soccerplus.link:8000/alberto/emma18/22286
-#EXTINF:-1,Historia channel
-http://tv.soccerplus.link:8000/alberto/emma18/22278
-#EXTINF:-1,FOX SPORTS 1  Arg
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl4zcuhNjb2uqKmMtvWHEDqoUsNT95FFn0O6YxrCp4rc5o
+#EXTINF:-1, DEP | ESPN 1 PE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/220727
+#EXTINF:-1, DEP | ESPN 1  SD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219173
+#EXTINF:-1, DEP | ESPN 1 PE HD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219172
+#EXTINF:-1, DEP | ESPN 1 HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219171
+#EXTINF:-1, DEP | ESPN 1 MX HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9380
+#EXTINF:-1, DEP | ESPN 1 MX SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185154
+#EXTINF:-1, DEP | ESPN 2 AR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185666
+#EXTINF:-1, DEP | ESPN 2 MX HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36391
+#EXTINF:-1, DEP | ESPN 3  AR HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21220
+#EXTINF:-1, DEP | ESPN 3  MX
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9530
+#EXTINF:-1, DEP | ESPN 3 MX HD  ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186774
+#EXTINF:-1, DEP | ESPN Deportes SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54094
+#EXTINF:-1, DEP | ESPN Extra BRA
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/168997
+#EXTINF:-1, DEP | FOX Deportes
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36396
+#EXTINF:-1, DEP | FOX Sports 2 ARG HD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19652
+#EXTINF:-1, DEP | FOX Sports 2 HD BRA
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/48540
+#EXTINF:-1, DEP | FOX Sports 2 MEX HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19495
+#EXTINF:-1, DEP | FOX Sports 3 MX HD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19496
+#EXTINF:-1, DEP | FOX Sports 3 HD MEX
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9538
+#EXTINF:-1, DEP | ESPN Premium HD AR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/215252
+#EXTINF:-1, DEP | FOX Sports Premium op2
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21298
+#EXTINF:-1, DEP | GOL TV LAT
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/51263
+#EXTINF:-1, DEP | Premiere 1 HD BRA
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/56720
+#EXTINF:-1, DEP | Premiere 3  BRA
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/49111
+#EXTINF:-1, DEP | TNT Sports AR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/211363
+#EXTINF:-1, DEP | TNT Sports ARG
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36424
+#EXTINF:-1, DEP | TNT Sports 3 HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19638
+#EXTINF:-1, DEP | TYC Sports Internacional HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/188939
+#EXTINF:-1, DEP | VTV Plus URU HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186609
+#EXTINF:-1, DEP | ESPN Premium FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276163
+#EXTINF:-1, DEP | FOX Sports 1 HD COL
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518960
+#EXTINF:-1, DEP | ESPN 3 AR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518963
+#EXTINF:-1, DEP | ESPN 2 MX
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518965
+#EXTINF:-1, DEP | ESPN 2  PERU HD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518967
+#EXTINF:-1, DEP | FOX Sports Premium
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158454
+#EXTINF:-1, DEP | TVC Deportes HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36406
+#EXTINF:-1, DEP | ESPN Extra HD MX @
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19485
+#EXTINF:-1, DEP | ESPN 2 AR SD  ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518964
+#EXTINF:-1, DEP | ESPN 3 FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/40735
+#EXTINF:-1, DEP | ESPN 2 FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185149
+#EXTINF:-1, DEP | ESPN 1 FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/272499
+#EXTINF:-1, DEP | FOX Sports 2 FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186573
+#EXTINF:-1, DEP | FOX Sports 2 SUR FHD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186606
+#EXTINF:-1, DEP | FOX Sports 3 FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/93563
+#EXTINF:-1, DEP | FOX Sports 3 SUR FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36389
+#EXTINF:-1, DEP | ESPN 4 FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/224430
+#EXTINF:-1, DEP | FOX Sports 1 SUR  FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36387
+#EXTINF:-1, DEP | TyC Sport  FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19461
+#EXTINF:-1, DEP | FOX Sports 2 SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185155
+#EXTINF:-1, DEP | TyC Sport SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21222
+#EXTINF:-1, DEP | FOX Sports 1 SUR SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518961
+#EXTINF:-1, DEP | ESPN 3 FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518962
+#EXTINF:-1, DEP | ESPN Deportes HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54533
+#EXTINF:-1, DEP | TNT Sports FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/224369
+#EXTINF:-1, DEP | Bein Sports XTRA Ñ
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/259731
+#EXTINF:-1, DEP | FOX Sports 1 HD MEX
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198785
+#EXTINF:-1, DEP | ESPN 1  SUR... FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439752
+#EXTINF:-1, DEP | ESPN 1  SUR FHD..
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439753
+#EXTINF:-1, DEP | ESPN 1  AR FHD.
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439754
+#EXTINF:-1, DEP | ESPN Extra ARG FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439755
+#EXTINF:-1, DEP | ESPN 2 FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439757
+#EXTINF:-1, DEP | ESPN 4 SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439770
+#EXTINF:-1, DEP | ESPN 3 SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439771
+#EXTINF:-1, DEP | ESPN 2 SD SUR .
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439772
+#EXTINF:-1, DEP | ESPN 1 SD COL
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439774
+#EXTINF:-1, DEP | ESPN 1 SD CH
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439775
+#EXTINF:-1, DEP | ESPN 4 SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439801
+#EXTINF:-1, DEP | ESPN 2 SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439802
+#EXTINF:-1, DEP | FOX Sports 2 SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439803
+#EXTINF:-1, DEP | ESPN Extra HD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/454717
+#EXTINF:-1, DEP | FOX Sports 1 MEX
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19632
+#EXTINF:-1, DEP | TYC Sports HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/454718
+#EXTINF:-1, DEP | ESPN 1 ARG HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/454719
+#EXTINF:-1, DEP | ESPN 2 BR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456549
+#EXTINF:-1, DEP | Premiere 2
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456656
+#EXTINF:-1, DEP | Premiere Clubes HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456657
+#EXTINF:-1, DEP | DirecTV Sports 2 FHD ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456658
+#EXTINF:-1, DEP | DirecTV Sports SD ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456659
+#EXTINF:-1, DEP | DirecTV Sports HD COL
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456660
+#EXTINF:-1, DEP | Canal Claro HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469051
+#EXTINF:-1, DEP | Claro Sports 2 HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469053
+#EXTINF:-1, DEP | ESPN 2 SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518966
+#EXTINF:-1, DEP | ESPN 2 FHD SUR .
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518968
+#EXTINF:-1, DEP | ESPN 1 HD COL
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/519821
+#EXTINF:-1, DEP | FOX Sports 1  AR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158518
+#EXTINF:-1, DEP | DirecTV Sports HD ARG
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/310533
+#EXTINF:-1, DEP | DirecTV Sports 1 SD ECU
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/310516
+#EXTINF:-1, DEP | Real Madrid TV HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/310523
+#EXTINF:-1, DEP | DirecTV Sports + SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/310535
+#EXTINF:-1, DEP | DirecTV Sports HD ECU
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/310536
+#EXTINF:-1, DEP | DirecTV Sports + HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518959
+#EXTINF:-1, PE | Liga 1 MAX HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469158
+#EXTINF:-1, PE | DirecTv 1 Perú
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469393
+#EXTINF:-1, PE | Antares TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/473842
+#EXTINF:-1, PE | LIGA 1 MAX OP2
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/478008
+#EXTINF:-1, PE | Liga 1
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/478009
+#EXTINF:-1, PE | Liga 1 MAX SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/499709
+#EXTINF:-1, PE | Movistar Deportes SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186611
+#EXTINF:-1, PE | Exitosa
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/12881
+#EXTINF:-1, PE | Canal N
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/12891
+#EXTINF:-1, PE | RPP
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/12893
+#EXTINF:-1, PE | Latina FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21772
+#EXTINF:-1, PE | Gol Perú FHD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21773
+#EXTINF:-1, PE | TV Perú
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21774
+#EXTINF:-1, PE | Perú Mágico
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/52170
+#EXTINF:-1, PE | ATV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/64666
+#EXTINF:-1, PE | TV Perú Noticias
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/64667
+#EXTINF:-1, PE | Gol Perú
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/69495
+#EXTINF:-1, PE | Directv Sports +
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/69954
+#EXTINF:-1, PE | América TV FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/102641
+#EXTINF:-1, PE | América TV HD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/102643
+#EXTINF:-1, PE | Latina TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186626
+#EXTINF:-1, PE | Willax HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/190542
+#EXTINF:-1, PE | Willax  SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/192235
+#EXTINF:-1, PE | Panamericana
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/192237
+#EXTINF:-1, PE | Frecuencia Latina
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/203615
+#EXTINF:-1, PE | Onda Digital
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/214970
+#EXTINF:-1, PE | ATV + SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/220992
+#EXTINF:-1, PE | Movistar Plus
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/230754
+#EXTINF:-1, PE | Movistar Deportes FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439746
+#EXTINF:-1, PE | ATV op2
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/499432
+#EXTINF:-1, 24/7 EL CHAVO DEL 8  ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216295
+#EXTINF:-1, 24/7 | Futurama ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/46284
+#EXTINF:-1, 24/7 | Tom Y Jerry ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108027
+#EXTINF:-1, 24/7 | La Familia Peluche ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107929
+#EXTINF:-1, 24/7 | The Big Bang Theory T 3- 4- 5 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216987
+#EXTINF:-1, 24/7 El Pájaro Loco ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177169
+#EXTINF:-1, 24/7 Quack Pack ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177122
+#EXTINF:-1, 24/7  Kung Fu Panda ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177183
+#EXTINF:-1, 24/7 TOY STORY ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177367
+#EXTINF:-1, 24/7 Los Simpson T1 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216822
+#EXTINF:-1, 24/7 | Hombres de Negro Serie Animada ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/17373
+#EXTINF:-1, 24/7 | Caso Cerrado ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107845
+#EXTINF:-1, 24/7 HORA DE AVENTURA ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107851
+#EXTINF:-1, 24/7 | Los Magníficos T1 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107875
+#EXTINF:-1, 24/7 YU-GI-OH!  ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177368
+#EXTINF:-1, 24/7 El juego del Calamar ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/236453
+#EXTINF:-1, 24/7 | El Zorro 1957 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107878
+#EXTINF:-1, 24/7 Los Simpson T3 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217023
+#EXTINF:-1, 24/7 | Pato Aventura ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108029
+#EXTINF:-1, 24/7 Mr.Bean ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177113
+#EXTINF:-1, 24/7 Jimmy Neutrón ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177181
+#EXTINF:-1, 24/7 Johnny Bravo ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177182
+#EXTINF:-1, 24/7 EL CHAPULIN COLORADO ANIMADO ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177376
+#EXTINF:-1, 24/7 Pingüinos de Madagascar ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177118
+#EXTINF:-1, 24/7 LA LISTA NEGRA T1 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216153
+#EXTINF:-1, 24/7 LA CASA DE PAPEL T5 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216154
+#EXTINF:-1, 24/7 EL COYOTE Y EL CORRECAMINOS ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216294
+#EXTINF:-1, 24/7 | Don Gato y su Pandilla ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169819
+#EXTINF:-1, 24/7 LA HORMIGA ATOMICA ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107885
+#EXTINF:-1, 24/7 | Full House ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107939
+#EXTINF:-1, 24/7 | El Bebe Jefazo  ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107981
+#EXTINF:-1, 24/7 | Friends T 1 y 2  ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107923
+#EXTINF:-1, 24/7 JORGE EL CURIOSO ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216296
+#EXTINF:-1, 24/7 LA LISTA NEGRA T2 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216297
+#EXTINF:-1, 24/7 CAPITAN CAVERNICOLA ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216465
+#EXTINF:-1, 24/7 DRAGON BALL  44 AL 77 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216844
+#EXTINF:-1, 24/7 Los Simpson T2 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216938
+#EXTINF:-1, 24/7 DRAGON BALL  78 AL 116 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216939
+#EXTINF:-1, 24/7 Selena ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217012
+#EXTINF:-1, 24/7 DANIEL EL TRAVIESO ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219285
+#EXTINF:-1, 24/7 DRAGON BALL  117 al 153 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217022
+#EXTINF:-1, 24/7 MIRACULOUS ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217139
+#EXTINF:-1, 24/7 POPEYE ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219234
+#EXTINF:-1, 24/7 Peliculas Spider-Man ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217011
+#EXTINF:-1, 24/7 El gran Chaparral ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217386
+#EXTINF:-1, 24/7 DRAGON BALL 1 AL 43 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216196
+#EXTINF:-1, 24/7 JONNY QUEST ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216821
+#EXTINF:-1, 24/7 | Vecinos Temp 1 y 2 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107932
+#EXTINF:-1, 24/7 | Chespirito ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/51343
+#EXTINF:-1, 24/7 She-ra ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177096
+#EXTINF:-1, 24/7 Sam y Cat ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177370
+#EXTINF:-1, 24/7 LAZY TOWN ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108006
+#EXTINF:-1, 24/7 EL SEÑOR DE LOS CIELOS ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177337
+#EXTINF:-1, 24/7 LUIS MIGUEL LA SERIE ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177321
+#EXTINF:-1, 24/7 Princesa Sofia ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177121
+#EXTINF:-1, 24/7 La Casa de Mickey Mouse ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177184
+#EXTINF:-1, 24/7 LAT | Series Comedia ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177320
+#EXTINF:-1, 24/7 LAT | Cinema Navidad ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177336
+#EXTINF:-1, 24/7 CAR | Un Show Mas
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177105
+#EXTINF:-1, 24/7 Lo Mejor de Mickey
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177132
+#EXTINF:-1, 24/7 TV S | Cobra Kai ©
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177380
+#EXTINF:-1, 24/7 | The Big Bang Theory T 1 Y 2 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/51331
+#EXTINF:-1, 24/7 | El Príncipe del Rap TEM 1 Y 2 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/51346
+#EXTINF:-1, 24/7 | Naruto ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/72333
+#EXTINF:-1, 24/7 LAT | Cinema DC Comics ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177322
+#EXTINF:-1, 24/7 LAT | Cinema DC Universe ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177323
+#EXTINF:-1, 24/7 LAT | Cinema Disney Family ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177324
+#EXTINF:-1, 24/7 LAT | Cinema Happy Madison ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177328
+#EXTINF:-1, 24/7 LAT | Disney Live Action ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177338
+#EXTINF:-1, 24/7 Harry Potter
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/471447
+#EXTINF:-1, 24/7 LAT | Disney Princess ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177339
+#EXTINF:-1, 24/7 LAT | Cinema Marvel Studios ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177333
+#EXTINF:-1, 24/7 LAT | Cinema DreamWorks ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177326
+#EXTINF:-1, 24/7 LAT | Cinema Disney Pixar ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177325
+#EXTINF:-1, 24/7 La Casa de Mickey Mouse
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177179
+#EXTINF:-1, 24/7 Sailor Moon
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177124
+#EXTINF:-1, 24/7 South Park
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177097
+#EXTINF:-1, 24/7 Juego de Tronos
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177327
+#EXTINF:-1, 24/7 BATMAN SERIE ANIMADA
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107946
+#EXTINF:-1, 24/7 Ranma 1/2
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217550
+#EXTINF:-1, 24/7 Death Note
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217686
+#EXTINF:-1, 24/7 BREAKING BAD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/222134
+#EXTINF:-1, 24/7 Batman del futuro
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/531603
+#EXTINF:-1, 24/7 Animado Presidente
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/531608
+#EXTINF:-1, 24/7 Canuto Y Canito
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/531610
+#EXTINF:-1, 24/7 Avatar: La leyenda de Aang
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/531613
+#EXTINF:-1, 24/7 | Bob Esponja
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169798
+#EXTINF:-1, 24/7 | CSI Miami
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107865
+#EXTINF:-1, 24/7 Pedro Infante
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107879
+#EXTINF:-1, 24/7 | Cantinflas
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107891
+#EXTINF:-1, 24/7 | Los 3 Chiflados
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107893
+#EXTINF:-1, 24/7 | Hechizada Temp 1
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107906
+#EXTINF:-1, 24/7 | Hannah Montana
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107925
+#EXTINF:-1, 24/7 | La Hora Pico
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107927
+#EXTINF:-1, 24/7 | Una Familia de Diez
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107928
+#EXTINF:-1, 24/7 | Liveman
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107950
+#EXTINF:-1, 24/7 | 1000 Maneras de Morir EN
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107953
+#EXTINF:-1, 24/7 | Contacto Extranormal
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107955
+#EXTINF:-1, 24/7 | Autobús Mágico
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107972
+#EXTINF:-1, 24/7 | Coraje el Perro Cobarde
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107974
+#EXTINF:-1, 24/7 | Dora la Exploradora
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107978
+#EXTINF:-1, 24/7 | Dora y sus Amigos en la Ciudad
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107979
+#EXTINF:-1, 24/7 | Garfield EN
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107985
+#EXTINF:-1, 24/7 | Padre de Familia HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108005
+#EXTINF:-1, 24/7 | Hey Arnold
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108015
+#EXTINF:-1, 24/7 | Las Tortugas Ninja
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108036
+#EXTINF:-1, 24/7 | Rugrats Aventura en Pañales
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108054
+#EXTINF:-1, 24/7 | Las Chicas Superpoderosas
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108055
+#EXTINF:-1, 24/7 | La Vaca y el Pollito
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108058
+#EXTINF:-1, 24/7 | Scooby Doo
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108059
+#EXTINF:-1, 24/7 | Los Supersónicos
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108063
+#EXTINF:-1, 24/7 | Inspector Gadget
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108064
+#EXTINF:-1, 24/7 | La Pequeña Lulú
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108069
+#EXTINF:-1, 24/7 | Pinky y Cerebro
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108082
+#EXTINF:-1, 24/7 | Beetlejuice Animado
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108086
+#EXTINF:-1, 24/7 | Samurai X
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108099
+#EXTINF:-1, 24/7 | El Inspector Ardilla
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108106
+#EXTINF:-1, 24/7 | El Chapulín Colorado
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/72328
+#EXTINF:-1, 24/7 | Escobar: El Patrón del Mal ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/72364
+#EXTINF:-1, 24/7 | Caballeros del Zodiaco ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169799
+#EXTINF:-1, 24/7 | Dragon Ball GT
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169802
+#EXTINF:-1, 24/7 | Dragon Ball Super
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169803
+#EXTINF:-1, 24/7 | He Man y los Masters del Universo
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169806
+#EXTINF:-1, 24/7 | Mazingerz ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169808
+#EXTINF:-1, 24/7 | Pokémon
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169812
+#EXTINF:-1, 24/7 | Robotech
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169813
+#EXTINF:-1, 24/7 | Smallville
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169817
+#EXTINF:-1, 24/7 | The Walking Dead ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169822
+#EXTINF:-1, 24/7 | Malcolm el del medio ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169807
+#EXTINF:-1, CINE | Golden SD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242027
+#EXTINF:-1, CINE | Golden Premier FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/222829
+#EXTINF:-1, CINE | HBO SD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198760
+#EXTINF:-1, CINE | HBO HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242029
+#EXTINF:-1, CINE | Paramount Channel SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242033
+#EXTINF:-1, CINE | STAR Channel HD MX Encoder
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198735
+#EXTINF:-1, CINE | Studio Universal SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/222826
+#EXTINF:-1, CINE | Universal Crime FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185163
+#EXTINF:-1, CINE | Universal Premiere
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/236380
+#EXTINF:-1, CINE | Claro Cinema
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276307
+#EXTINF:-1, CINE | HBO Plus FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198753
+#EXTINF:-1, CINE | Universal Cinema ESTE FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185152
+#EXTINF:-1, CINE | A&E SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186628
+#EXTINF:-1, CINE | AXN FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/241995
+#EXTINF:-1, CINE | Cinemax FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242025
+#EXTINF:-1, CINE | Space FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19454
+#EXTINF:-1, CINE | Studio Universal FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/241984
+#EXTINF:-1, CINE | Universal Reality FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198741
+#EXTINF:-1, CINE | A&E NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/241996
+#EXTINF:-1, CINE | AMC SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159149
+#EXTINF:-1, CINE | Cine Latino
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/55511
+#EXTINF:-1, CINE | CineCanal HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9494
+#EXTINF:-1, CINE | De Película
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53095
+#EXTINF:-1, CINE | De Película SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9506
+#EXTINF:-1, CINE | De Película Classic@
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53090
+#EXTINF:-1, CINE | Golden Edge FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9505
+#EXTINF:-1, CINE | Golden Plus HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9496
+#EXTINF:-1, CINE | HBO Family FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/73200
+#EXTINF:-1, CINE | HBO Family FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/12854
+#EXTINF:-1, CINE | HBO NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54282
+#EXTINF:-1, CINE | HBO Mundi HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19547
+#EXTINF:-1, CINE | HBO Plus
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/73199
+#EXTINF:-1, CINE | HBO Plus SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19581
+#EXTINF:-1, CINE | HBO Pop SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159124
+#EXTINF:-1, CINE | HBO Signature HD LAT
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/167659
+#EXTINF:-1, CINE | HBO Xtreme HD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54164
+#EXTINF:-1, CINE | HBO Xtreme FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19548
+#EXTINF:-1, CINE | Paramount Channel HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54277
+#EXTINF:-1, CINE | Paramount Network NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19556
+#EXTINF:-1, CINE | Showtime HD latino
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159148
+#EXTINF:-1, CINE | Space SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159153
+#EXTINF:-1, CINE | Starz HD latino
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159130
+#EXTINF:-1, CINE | SyFy SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19561
+#EXTINF:-1, CINE | SyFy HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54240
+#EXTINF:-1, CINE | TBS HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19562
+#EXTINF:-1, CINE | TNT LAT FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9495
+#EXTINF:-1, CINE | Universal Comedy FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185166
+#EXTINF:-1, CINE | HBO Pop
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185169
+#EXTINF:-1, CINE | HBO Xtreme SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185170
+#EXTINF:-1, CINE | HBO Plus HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185172
+#EXTINF:-1, CINE | HBO Xtreme FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185175
+#EXTINF:-1, CINE | Golden SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9504
+#EXTINF:-1, CINE | Sony
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/199523
+#EXTINF:-1, CINE | Cine Sureño @
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/199527
+#EXTINF:-1, CINE | Top Cine @
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/199528
+#EXTINF:-1, CINE | HBO Plus @
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198755
+#EXTINF:-1, CINE | Universal Premiere FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198730
+#EXTINF:-1, CINE | HBO Family sd
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185178
+#EXTINF:-1, CINE | STAR Channel FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198736
+#EXTINF:-1, CINE | Canal DHE FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/225716
+#EXTINF:-1, CINE | HBO 2 SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/286151
+#EXTINF:-1, CINE | Universal Channel FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439738
+#EXTINF:-1, CINE | Universal Premiere FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439739
+#EXTINF:-1, CINE | TNT LAT FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439741
+#EXTINF:-1, CINE | STAR Channel FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439744
+#EXTINF:-1, CINE | HBO SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439749
+#EXTINF:-1, CINE | HBO 2 FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439750
+#EXTINF:-1, CINE | Golden SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439751
+#EXTINF:-1, CINE | CineCanal FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439760
+#EXTINF:-1, CINE | AMC FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439762
+#EXTINF:-1, CINE | TNT SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439765
+#EXTINF:-1, CINE | HBO SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439768
+#EXTINF:-1, CINE | AXN SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439779
+#EXTINF:-1, CINE | Universal Reality NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439782
+#EXTINF:-1, CINE | Universal Premiere OESTE FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439785
+#EXTINF:-1, CINE | Paramount Network FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439787
+#EXTINF:-1, CINE | HBO Family 4K
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439797
+#EXTINF:-1, CINE | Golden Edge SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439804
+#EXTINF:-1, CINE | Paramount Channel SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439808
+#EXTINF:-1, CINE | STAR Channel SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439809
+#EXTINF:-1, CINE | Golden Premier 2
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453359
+#EXTINF:-1, CINE | Panico FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453503
+#EXTINF:-1, CINE | Multipremier HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453505
+#EXTINF:-1, CINE | MultiCinema
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453506
+#EXTINF:-1, CINE | Morbido TV HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453507
+#EXTINF:-1, CINE | Sony Movies HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469055
+#EXTINF:-1, CINE | Golden Premiere 2 NORTE HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469057
+#EXTINF:-1, CINE | Golden Premiere NORTE HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469058
+#EXTINF:-1, CINE | Europa Europa
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/473708
+#EXTINF:-1, CINE | CineCanal SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159151
+#EXTINF:-1, CINE | CineCanal FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19475
+#EXTINF:-1, CINE | Cinemax SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54167
+#EXTINF:-1, CINE | De Película Plus
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53091
+#EXTINF:-1, CINE | Film & Arts HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19535
+#EXTINF:-1, CINE | Golden Edge
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9349
+#EXTINF:-1, CINE | Golden Plus @
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53089
+#EXTINF:-1, CINE | Golden Premier
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/67425
+#EXTINF:-1, CINE | HBO 2 HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159126
+#EXTINF:-1, CINE | HBO Mundi SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158467
+#EXTINF:-1, CINE | HBO Plus AR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159125
+#EXTINF:-1, CINE | HBO Pop FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19626
+#EXTINF:-1, CINE | HBO Signature SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19582
+#EXTINF:-1, CINE | Space NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54168
+#EXTINF:-1, CINE | Studio Universal HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19572
+#EXTINF:-1, CINE | TCM
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19563
+#EXTINF:-1, CINE | TNT
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158465
+#EXTINF:-1, CINE | AMC FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186852
+#EXTINF:-1, CINE | AXN HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53047
+#EXTINF:-1, CINE | Universal TV HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/184477
+#EXTINF:-1, INF | Disney Junior HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53062
+#EXTINF:-1, INF | Nickelodeon SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9576
+#EXTINF:-1, INF | Baby First
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9419
+#EXTINF:-1, INF | Discovery Kids FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9426
+#EXTINF:-1, INF | Cartoonito SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19474
+#EXTINF:-1, INF | Tooncast
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19567
+#EXTINF:-1, INF | Discovery Kids SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36459
+#EXTINF:-1, INF | Cartoon Network  HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54404
+#EXTINF:-1, INF | Cartoonito
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54405
+#EXTINF:-1, INF | Baby TV SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/56214
+#EXTINF:-1, INF | Boing HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186608
+#EXTINF:-1, INF | Cartoon Network FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/211218
+#EXTINF:-1, INF | Disney Channel SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439800
+#EXTINF:-1, INF | Disney JR SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/211238
+#EXTINF:-1, INF | Nick JR SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/211305
+#EXTINF:-1, INF | Disney Junior FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439796
+#EXTINF:-1, INF | Nick Jr HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242022
+#EXTINF:-1, INF | Discovery Kids FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439758
+#EXTINF:-1, INF | Cartoon Network FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439761
+#EXTINF:-1, INF | Disney Channel SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439795
+#EXTINF:-1, INF | Nickelodeon SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439807
+#EXTINF:-1, INF | Disney Junior SD*
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439825
+#EXTINF:-1, MU | Indie
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53769
+#EXTINF:-1, MU | Nick Music
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53770
+#EXTINF:-1, MU | MTV USA HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53043
+#EXTINF:-1, MU | MTV U HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/176831
+#EXTINF:-1, MU | Pop Latino
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53776
+#EXTINF:-1, MU | Classica
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53777
+#EXTINF:-1, MU | RAP 2K
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53779
+#EXTINF:-1, MU | TeleHit Música
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/199531
+#EXTINF:-1, MU | MTV FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242039
+#EXTINF:-1, MU | MTV Latino FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9464
+#EXTINF:-1, MU | Retro Music Television
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/41923
+#EXTINF:-1, MU | MTV Classic HD (Y)
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53197
+#EXTINF:-1, MU | Music Top
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54273
+#EXTINF:-1, MU | Retro Music TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54274
+#EXTINF:-1, MU | HTV Latino
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217140
+#EXTINF:-1, MU | Vevo Reggaton ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/224311
+#EXTINF:-1, MU | Vevo Latin
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/224314
+#EXTINF:-1, MU | Vevo '90s
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/259762
+#EXTINF:-1, MU | Vevo '80s
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/259763
+#EXTINF:-1, MU | Vevo '70s
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/259764
+#EXTINF:-1, MU | Vallenato Internacional
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/516333
+#EXTINF:-1, VE | Televen
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/56175
+#EXTINF:-1, VE | Venevisión
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/56177
+#EXTINF:-1, VE | Meridiano TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/109086
+#EXTINF:-1, VE | Tves
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/109092
+#EXTINF:-1, VE | Vale TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/109094
+#EXTINF:-1, VE | Oxigeno TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/205624
+#EXTINF:-1, VE | Sun Channel
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439742
+#EXTINF:-1, VE | Globovisión
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439769
+#EXTINF:-1, VE | Meridiano SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439806
+#EXTINF:-1, VE | TLT
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439811
+#EXTINF:-1, VE | Venevisión SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439820
+#EXTINF:-1, VE | Vive SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439821
+#EXTINF:-1, VE | IVC
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518559
+#EXTINF:-1, VE | Telesur
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/452018
+#EXTINF:-1, VE | Canal I
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/452102
+#EXTINF:-1, PE | Peruvisual
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514602
+#EXTINF:-1, PE | Planeta TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514610
+#EXTINF:-1, PE | Turbo Mix TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514613
+#EXTINF:-1, PE | Nativa
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514615
+#EXTINF:-1, PE | Onda Digital TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514616
+#EXTINF:-1, PE | Antares TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514618
+#EXTINF:-1, PE | Autentica TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514622
+#EXTINF:-1, PE | Canal 8 Catacaos
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514672
+#EXTINF:-1, PE | Controversia TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514626
+#EXTINF:-1, PE | CR TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514627
+#EXTINF:-1, PE | DMJ
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514629
+#EXTINF:-1, PE | Doble C TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514630
+#EXTINF:-1, PE | Exitosa
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514631
+#EXTINF:-1, PE | Genios TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514632
+#EXTINF:-1, PE | Hechicera TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514633
+#EXTINF:-1, PE | JN19
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514634
+#EXTINF:-1, PE | Master Televisión
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514635
+#EXTINF:-1, PE | Mega TV Jaen
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514637
+#EXTINF:-1, PE | Ovación
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514639
+#EXTINF:-1, PE | Perú Channel
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514641
+#EXTINF:-1, PE | Sanjuanera TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514642
+#EXTINF:-1, PE | Telecolor TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514643
+#EXTINF:-1, PE | Tumpis TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514644
+#EXTINF:-1, PE | Unitel
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514648
+#EXTINF:-1, PE | Uranio TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514649
+#EXTINF:-1, PE | Via Alto Mayo TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514650
+#EXTINF:-1, PE | Via Television Tarapoto
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514651
+#EXTINF:-1, PE | VZ TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514657
+#EXTINF:-1, PE | Uranio TV (Yurimaguas)
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514655
+#EXTINF:-1, PE | Viva TV Yurimaguas
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514656
+#EXTINF:-1, PE | AsiriTV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514658
+#EXTINF:-1, PE | Auténtica Televisión
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514663
+#EXTINF:-1, PE | Bella Asunción TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514664
+#EXTINF:-1, PE | Canal 33 Ayacucho
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514673
