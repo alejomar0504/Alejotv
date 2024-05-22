@@ -1,761 +1,863 @@
-#EXTM3U 
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="24/7", 24/7 | Dragon Ball GT
+#EXTM3U
+#EXTINF:-1 group-title="24/7",24/7 | Caballeros del Zodiaco ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169799
+#EXTINF:-1 group-title="24/7",24/7 | Coraje el Perro Cobarde
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107974
+#EXTINF:-1 group-title="24/7",24/7 | Don Gato y su Pandilla ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169819
+#EXTINF:-1 group-title="24/7",24/7 | Dragon Ball GT
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169802
-#EXTINF: -1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="24/7", 24/7 | Dragon Ball Super
+#EXTINF:-1 group-title="24/7",24/7 | Dragon Ball Super
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169803
-#EXTINF: -1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24/7", 24/7 | El Chapulín Colorado
+#EXTINF:-1 group-title="24/7",24/7 | El Chapulín Colorado
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/72328
-#EXTINF: -1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Zorro_1957_show_logo.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/a/a1/Zorro_1957_show_logo.jpg" group-title="24/7", 24/7 | El Zorro 1957 ⭐️
+#EXTINF:-1 group-title="24/7",24/7 | El Príncipe del Rap TEM 1 Y 2 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/51346
+#EXTINF:-1 group-title="24/7",24/7 | El Zorro 1957 ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107878
-#EXTINF: -1 tvg-chno="6" tvg-logo="https://i.pinimg.com/736x/91/19/85/911985fda66b9456062f93eb7c882997.jpg" tvg-logo-small="https://i.pinimg.com/736x/91/19/85/911985fda66b9456062f93eb7c882997.jpg" group-title="24/7", 24/7 | He Man y los Masters del Universo
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169806
-#EXTINF: -1 tvg-chno="7" tvg-logo="https://i.pinimg.com/originals/fb/98/7d/fb987deeaedb5175e2ba9da81abdfb04.png" tvg-logo-small="https://i.pinimg.com/originals/fb/98/7d/fb987deeaedb5175e2ba9da81abdfb04.png" group-title="24/7", 24/7 | Las Chicas Superpoderosas
+#EXTINF:-1 group-title="24/7",24/7 | Friends T 1 y 2  ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107923
+#EXTINF:-1 group-title="24/7",24/7 | Futurama ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/46284
+#EXTINF:-1 group-title="24/7",24/7 | Hombres de Negro Serie Animada ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/17373
+#EXTINF:-1 group-title="24/7",24/7 | Las Chicas Superpoderosas
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108055
-#EXTINF: -1 tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/The_Jetsons_%28television_series_logo%29.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/5/59/The_Jetsons_%28television_series_logo%29.png" group-title="24/7", 24/7 | Los Supersónicos
+#EXTINF:-1 group-title="24/7",24/7 | Los Supersónicos
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108063
-#EXTINF: -1 tvg-chno="10" tvg-logo="https://image.tmdb.org/t/p/original/wq0dbVSuAIqLRQwZzmWedJs05zv.svg" tvg-logo-small="https://image.tmdb.org/t/p/original/wq0dbVSuAIqLRQwZzmWedJs05zv.svg" group-title="24/7", 24/7 | Malcolm el del medio ⭐️
+#EXTINF:-1 group-title="24/7",24/7 | Malcolm el del medio ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169807
-#EXTINF: -1 tvg-chno="11" tvg-logo="https://i.pinimg.com/originals/fd/56/ec/fd56ecd4f5728769db010f95541ee05f.png" tvg-logo-small="https://i.pinimg.com/originals/fd/56/ec/fd56ecd4f5728769db010f95541ee05f.png" group-title="24/7", 24/7 | Mazingerz ⭐️
+#EXTINF:-1 group-title="24/7",24/7 | Mazingerz ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169808
-#EXTINF: -1 tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/2560px-Naruto_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/2560px-Naruto_logo.svg.png" group-title="24/7", 24/7 | Naruto ⭐️
+#EXTINF:-1 group-title="24/7",24/7 | Naruto ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/72333
-#EXTINF: -1 tvg-chno="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Smallville_2001_logo.svg/1280px-Smallville_2001_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Smallville_2001_logo.svg/1280px-Smallville_2001_logo.svg.png" group-title="24/7", 24/7 | Smallville
+#EXTINF:-1 group-title="24/7",24/7 | Pokémon
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169812
+#EXTINF:-1 group-title="24/7",24/7 | Smallville
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169817
-#EXTINF: -1 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/The_Walking_Dead_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/2e/The_Walking_Dead_Logo.png" group-title="24/7", 24/7 | The Walking Dead ⭐️
+#EXTINF:-1 group-title="24/7",24/7 | The Big Bang Theory T 1 Y 2 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/51331
+#EXTINF:-1 group-title="24/7",24/7 | The Big Bang Theory T 3- 4- 5 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216987
+#EXTINF:-1 group-title="24/7",24/7 | The Walking Dead ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/169822
-#EXTINF: -1 tvg-chno="16" tvg-logo="https://i.pinimg.com/originals/b1/4f/16/b14f165c3501cc8f53e64b551ad1cd25.png" tvg-logo-small="https://i.pinimg.com/originals/b1/4f/16/b14f165c3501cc8f53e64b551ad1cd25.png" group-title="24/7", 24/7 | Tom Y Jerry ⭐️
+#EXTINF:-1 group-title="24/7",24/7 | Tom Y Jerry ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108027
-#EXTINF: -1 tvg-chno="17" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/Death-Note-Logo.png" tvg-logo-small="https://1000marcas.net/wp-content/uploads/2022/12/Death-Note-Logo.png" group-title="24/7", 24/7 Death Note
+#EXTINF:-1 group-title="24/7",24/7 BATMAN SERIE ANIMADA
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107946
+#EXTINF:-1 group-title="24/7",24/7 BEN 10 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107843
+#EXTINF:-1 group-title="24/7",24/7 BREAKING BAD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/222134
+#EXTINF:-1 group-title="24/7",24/7 Candy Candy ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177094
+#EXTINF:-1 group-title="24/7",24/7 CAPITAN CAVERNICOLA ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216465
+#EXTINF:-1 group-title="24/7",24/7 DANIEL EL TRAVIESO ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219285
+#EXTINF:-1 group-title="24/7",24/7 Death Note
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217686
-#EXTINF: -1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/2537px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/2537px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png" group-title="24/7", 24/7 DRAGON BALL  117 al 153 ⭐️
+#EXTINF:-1 group-title="24/7",24/7 Dos Hombres y Medio ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177379
+#EXTINF:-1 group-title="24/7",24/7 DRAGON BALL  117 al 153 ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217022
-#EXTINF: -1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/2537px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/2537px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png" group-title="24/7", 24/7 DRAGON BALL  44 AL 77 ⭐️
+#EXTINF:-1 group-title="24/7",24/7 DRAGON BALL  44 AL 77 ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216844
-#EXTINF: -1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/2537px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/2537px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png" group-title="24/7", 24/7 DRAGON BALL  78 AL 116 ⭐️
+#EXTINF:-1 group-title="24/7",24/7 DRAGON BALL  78 AL 116 ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216939
-#EXTINF: -1 tvg-chno="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/2537px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg/2537px-Dragon_Ball_manga_1st_Japanese_edition_logo.svg.png" group-title="24/7", 24/7 DRAGON BALL 1 AL 43 ⭐️
+#EXTINF:-1 group-title="24/7",24/7 DRAGON BALL 1 AL 43 ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216196
-#EXTINF: -1 tvg-chno="23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png" group-title="24/7", 24/7 EL CHAVO DEL 8  ⭐️
+#EXTINF:-1 group-title="24/7",24/7 EL CHAPULIN COLORADO ANIMADO ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177376
+#EXTINF:-1 group-title="24/7",24/7 EL CHAVO DEL 8  ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216295
-#EXTINF: -1 tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/The_Looney_Tunes_Show_logo.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/e/e1/The_Looney_Tunes_Show_logo.svg" group-title="24/7", 24/7 EL COYOTE Y EL CORRECAMINOS ⭐️
+#EXTINF:-1 group-title="24/7",24/7 EL COYOTE Y EL CORRECAMINOS ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216294
-#EXTINF: -1 tvg-chno="27" tvg-logo="https://www.gifservice.fr/img/share-static/205c0011e1271a5d8fbae7cc0927a2c8/378668-multimedia-dibujos-animados-tv-peliculas-el-pajaro-loco-logotipo-en-ingls.gif" tvg-logo-small="https://www.gifservice.fr/img/share-static/205c0011e1271a5d8fbae7cc0927a2c8/378668-multimedia-dibujos-animados-tv-peliculas-el-pajaro-loco-logotipo-en-ingls.gif" group-title="24/7", 24/7 El Pájaro Loco ⭐️
+#EXTINF:-1 group-title="24/7",24/7 El Pájaro Loco ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177169
-#EXTINF: -1 tvg-chno="28" tvg-logo="https://1000logos.net/wp-content/uploads/2017/02/Harry-potter-Logo.png" tvg-logo-small="https://1000logos.net/wp-content/uploads/2017/02/Harry-potter-Logo.png" group-title="24/7", 24/7 Harry Potter
+#EXTINF:-1 group-title="24/7",24/7 EL SEÑOR DE LOS CIELOS ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177337
+#EXTINF:-1 group-title="24/7",24/7 Harry Potter
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/471447
-#EXTINF: -1 tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Adventure_Time_logo2.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/b4/Adventure_Time_logo2.png" group-title="24/7", 24/7 HORA DE AVENTURA ⭐️
+#EXTINF:-1 group-title="24/7",24/7 HORA DE AVENTURA ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107851
-#EXTINF: -1 tvg-chno="31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Johnny_Bravo_series_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/be/Johnny_Bravo_series_logo.png" group-title="24/7", 24/7 Johnny Bravo ⭐️
+#EXTINF:-1 group-title="24/7",24/7 Jimmy Neutrón ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177181
+#EXTINF:-1 group-title="24/7",24/7 Johnny Bravo ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177182
-#EXTINF: -1 tvg-chno="32" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ46RoSXEzMCyD5GnnC96KsBFCsg-KJ8y_MaQ5CzEOVsQ&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ46RoSXEzMCyD5GnnC96KsBFCsg-KJ8y_MaQ5CzEOVsQ&s" group-title="24/7", 24/7 JONNY QUEST ⭐️
+#EXTINF:-1 group-title="24/7",24/7 JONNY QUEST ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216821
-#EXTINF: -1 tvg-chno="33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Game_of_Thrones_2011_logo.svg/2560px-Game_of_Thrones_2011_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Game_of_Thrones_2011_logo.svg/2560px-Game_of_Thrones_2011_logo.svg.png" group-title="24/7", 24/7 Juego de Tronos
+#EXTINF:-1 group-title="24/7",24/7 JORGE EL CURIOSO ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216296
+#EXTINF:-1 group-title="24/7",24/7 Juego de Tronos
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177327
-#EXTINF: -1 tvg-chno="35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Disney%27s_House_of_Mouse_logo.svg/1200px-Disney%27s_House_of_Mouse_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Disney%27s_House_of_Mouse_logo.svg/1200px-Disney%27s_House_of_Mouse_logo.svg.png" group-title="24/7", 24/7 La Casa de Mickey Mouse ⭐️
+#EXTINF:-1 group-title="24/7",24/7 La Casa de Mickey Mouse
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177179
+#EXTINF:-1 group-title="24/7",24/7 La Casa de Mickey Mouse ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177184
-#EXTINF: -1 tvg-chno="36" tvg-logo="https://i.pinimg.com/originals/5e/f6/9b/5ef69b67391f791eb361acd9cde42894.png" tvg-logo-small="https://i.pinimg.com/originals/5e/f6/9b/5ef69b67391f791eb361acd9cde42894.png" group-title="24/7", 24/7 LA CASA DE PAPEL T5 ⭐️
+#EXTINF:-1 group-title="24/7",24/7 LA CASA DE PAPEL T5 ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216154
-#EXTINF: -1 tvg-chno="37" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/1200px-DC_Comics_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/1200px-DC_Comics_logo.svg.png" group-title="24/7", 24/7 LAT | Cinema DC Comics ⁽ᴴᴰ⁾
+#EXTINF:-1 group-title="24/7",24/7 LA HORMIGA ATOMICA ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/107885
+#EXTINF:-1 group-title="24/7",24/7 LA LISTA NEGRA T1 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216153
+#EXTINF:-1 group-title="24/7",24/7 LA LISTA NEGRA T2 ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216297
+#EXTINF:-1 group-title="24/7",24/7 La Sirenita ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177127
+#EXTINF:-1 group-title="24/7",24/7 LAT | Cinema DC Comics ⁽ᴴᴰ⁾
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177322
-#EXTINF: -1 tvg-chno="38" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DCUniverse.svg/1200px-DCUniverse.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DCUniverse.svg/1200px-DCUniverse.svg.png" group-title="24/7", 24/7 LAT | Cinema DC Universe ⁽ᴴᴰ⁾
+#EXTINF:-1 group-title="24/7",24/7 LAT | Cinema DC Universe ⁽ᴴᴰ⁾
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177323
-#EXTINF: -1 tvg-chno="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="24/7", 24/7 LAT | Cinema Disney Family ⁽ᴴᴰ⁾
+#EXTINF:-1 group-title="24/7",24/7 LAT | Cinema Disney Family ⁽ᴴᴰ⁾
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177324
-#EXTINF: -1 tvg-chno="40" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/DreamWorks-Animation-logo.png" tvg-logo-small="https://1000logos.net/wp-content/uploads/2021/05/DreamWorks-Animation-logo.png" group-title="24/7", 24/7 LAT | Cinema DreamWorks ⁽ᴴᴰ⁾
+#EXTINF:-1 group-title="24/7",24/7 LAT | Cinema Disney Pixar ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177325
+#EXTINF:-1 group-title="24/7",24/7 LAT | Cinema DreamWorks ⁽ᴴᴰ⁾
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177326
-#EXTINF: -1 tvg-chno="41" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Happy-Madison-Productions-logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4f/Happy-Madison-Productions-logo.png" group-title="24/7", 24/7 LAT | Cinema Happy Madison ⁽ᴴᴰ⁾
+#EXTINF:-1 group-title="24/7",24/7 LAT | Cinema Happy Madison ⁽ᴴᴰ⁾
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177328
-#EXTINF: -1 tvg-chno="42" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/The_Lego_Movie_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/3/38/The_Lego_Movie_logo.png" group-title="24/7", 24/7 LAT | Cinema Lego Movies ⁽ᴴᴰ⁾
+#EXTINF:-1 group-title="24/7",24/7 LAT | Cinema Lego Movies ⁽ᴴᴰ⁾
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177331
-#EXTINF: -1 tvg-chno="43" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Marvel-tv-logo.svg/2560px-Marvel-tv-logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Marvel-tv-logo.svg/2560px-Marvel-tv-logo.svg.png" group-title="24/7", 24/7 LAT | Cinema Marvel Studios ⁽ᴴᴰ⁾
+#EXTINF:-1 group-title="24/7",24/7 LAT | Cinema Marvel Studios ⁽ᴴᴰ⁾
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177333
-#EXTINF: -1 tvg-chno="44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Mickey_Mouse_%282013_TV_series%29_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/c/c2/Mickey_Mouse_%282013_TV_series%29_logo.png" group-title="24/7", 24/7 Lo Mejor de Mickey
+#EXTINF:-1 group-title="24/7",24/7 LAT | Cinema Navidad ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177336
+#EXTINF:-1 group-title="24/7",24/7 LAT | Disney Live Action ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177338
+#EXTINF:-1 group-title="24/7",24/7 LAT | Disney Princess ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177339
+#EXTINF:-1 group-title="24/7",24/7 LAZY TOWN ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/108006
+#EXTINF:-1 group-title="24/7",24/7 Lo Mejor de Mickey
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177132
-#EXTINF: -1 tvg-chno="45" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/The_Simpsons_Logo_2009_vector.svg/1280px-The_Simpsons_Logo_2009_vector.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/The_Simpsons_Logo_2009_vector.svg/1280px-The_Simpsons_Logo_2009_vector.svg.png" group-title="24/7", 24/7 Los Simpson T1 ⭐️
+#EXTINF:-1 group-title="24/7",24/7 Los Cazafantasmas ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177137
+#EXTINF:-1 group-title="24/7",24/7 Los Picapiedras ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177126
+#EXTINF:-1 group-title="24/7",24/7 Los Pitufos ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/221633
+#EXTINF:-1 group-title="24/7",24/7 Los Simpson T1 ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216822
-#EXTINF: -1 tvg-chno="46" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/The_Simpsons_Logo_2009_vector.svg/1280px-The_Simpsons_Logo_2009_vector.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/The_Simpsons_Logo_2009_vector.svg/1280px-The_Simpsons_Logo_2009_vector.svg.png" group-title="24/7", 24/7 Los Simpson T2 ⭐️
+#EXTINF:-1 group-title="24/7",24/7 Los Simpson T2 ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/216938
-#EXTINF: -1 tvg-chno="47" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/The_Simpsons_Logo_2009_vector.svg/1280px-The_Simpsons_Logo_2009_vector.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/The_Simpsons_Logo_2009_vector.svg/1280px-The_Simpsons_Logo_2009_vector.svg.png" group-title="24/7", 24/7 Los Simpson T3 ⭐️
+#EXTINF:-1 group-title="24/7",24/7 Los Simpson T3 ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217023
-#EXTINF: -1 tvg-chno="48" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Spider-Man-Logo.png" tvg-logo-small="https://logos-world.net/wp-content/uploads/2020/11/Spider-Man-Logo.png" group-title="24/7", 24/7 Peliculas Spider-Man ⭐️
+#EXTINF:-1 group-title="24/7",24/7 LUIS MIGUEL LA SERIE ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177321
+#EXTINF:-1 group-title="24/7",24/7 MIRACULOUS ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217139
+#EXTINF:-1 group-title="24/7",24/7 Mr.Bean ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177113
+#EXTINF:-1 group-title="24/7",24/7 Peliculas Spider-Man ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217011
-#EXTINF: -1 tvg-chno="49" tvg-logo="https://i.pinimg.com/originals/19/98/3f/19983f88a4e38802a92d7ce889910471.png" tvg-logo-small="https://i.pinimg.com/originals/19/98/3f/19983f88a4e38802a92d7ce889910471.png" group-title="24/7", 24/7 Pingüinos de Madagascar ⭐️
+#EXTINF:-1 group-title="24/7",24/7 Pingüinos de Madagascar ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177118
-#EXTINF: -1 tvg-chno="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/South_Park_sign_logo.png/1085px-South_Park_sign_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/South_Park_sign_logo.png/1085px-South_Park_sign_logo.png" group-title="24/7", 24/7 South Park
+#EXTINF:-1 group-title="24/7",24/7 POPEYE ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219234
+#EXTINF:-1 group-title="24/7",24/7 Power Rangers ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/221366
+#EXTINF:-1 group-title="24/7",24/7 Princesa Sofia ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177121
+#EXTINF:-1 group-title="24/7",24/7 Quack Pack ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177122
+#EXTINF:-1 group-title="24/7",24/7 Ranma 1/2
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217550
+#EXTINF:-1 group-title="24/7",24/7 Sailor Moon
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177124
+#EXTINF:-1 group-title="24/7",24/7 Sam y Cat ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177370
+#EXTINF:-1 group-title="24/7",24/7 Selena ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/217012
+#EXTINF:-1 group-title="24/7",24/7 She-ra ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177096
+#EXTINF:-1 group-title="24/7",24/7 South Park
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177097
-#EXTINF: -1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Toy_Story_logo.svg/2560px-Toy_Story_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Toy_Story_logo.svg/2560px-Toy_Story_logo.svg.png" group-title="24/7", 24/7 TOY STORY ⭐️
+#EXTINF:-1 group-title="24/7",24/7 TOY STORY ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177367
-#EXTINF: -1 tvg-chno="52" tvg-logo="https://1000logos.net/wp-content/uploads/2024/02/Yu-Gi-Oh-Logo-2001.png" tvg-logo-small="https://1000logos.net/wp-content/uploads/2024/02/Yu-Gi-Oh-Logo-2001.png" group-title="24/7", 24/7 YU-GI-OH!  ⭐️
+#EXTINF:-1 group-title="24/7",24/7 YU-GI-OH!  ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/177368
-#EXTINF: -1 tvg-chno="53" group-title="CULTURA", CUL | Animal Planet HD op2
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9517
-#EXTINF: -1 tvg-chno="54" group-title="CULTURA", CUL | Animal Planet HD SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/229242
-#EXTINF: -1 tvg-chno="55" group-title="CULTURA", CUL | Animal Planet NORTE
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439824
-#EXTINF: -1 tvg-chno="56" group-title="CULTURA", CUL | Animal Planet SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276193
-#EXTINF: -1 tvg-chno="57" group-title="CULTURA", CUL | Canal Cocina
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453809
-#EXTINF: -1 tvg-chno="58" group-title="CULTURA", CUL | Discovery Channel FHD NORTE
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9520
-#EXTINF: -1 tvg-chno="59" group-title="CULTURA", CUL | Discovery Channel Lat
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186572
-#EXTINF: -1 tvg-chno="60" group-title="CULTURA", CUL | Discovery Channel SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/93442
-#EXTINF: -1 tvg-chno="61" group-title="CULTURA", CUL | Discovery en Español  HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/452236
-#EXTINF: -1 tvg-chno="62" group-title="CULTURA", CUL | Discovery Familia
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/10769
-#EXTINF: -1 tvg-chno="63" group-title="CULTURA", CUL | Discovery Home & Health FHD NORTE
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242008
-#EXTINF: -1 tvg-chno="64" group-title="CULTURA", CUL | Discovery Home & Health FHD SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439759
-#EXTINF: -1 tvg-chno="65" group-title="CULTURA", CUL | Discovery Home & Health LAT
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/273322
-#EXTINF: -1 tvg-chno="66" group-title="CULTURA", CUL | Discovery Home & Health SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53078
-#EXTINF: -1 tvg-chno="67" group-title="CULTURA", CUL | Discovery Science FHD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36466
-#EXTINF: -1 tvg-chno="68" group-title="CULTURA", CUL | Discovery Theater FHD SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439786
-#EXTINF: -1 tvg-chno="69" group-title="CULTURA", CUL | Discovery TLC
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/268886
-#EXTINF: -1 tvg-chno="70" group-title="CULTURA", CUL | Discovery TLC FHD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242009
-#EXTINF: -1 tvg-chno="71" group-title="CULTURA", CUL | Discovery TLC HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/199201
-#EXTINF: -1 tvg-chno="72" group-title="CULTURA", CUL | Discovery TLC HD MEX
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19596
-#EXTINF: -1 tvg-chno="73" group-title="CULTURA", CUL | Discovery Turbo HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54283
-#EXTINF: -1 tvg-chno="74" group-title="CULTURA", CUL | Discovery Turbo SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19505
-#EXTINF: -1 tvg-chno="75" group-title="CULTURA", CUL | Discovery World FHD NORTE
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53077
-#EXTINF: -1 tvg-chno="76" group-title="CULTURA", CUL | Discovery World SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9516
-#EXTINF: -1 tvg-chno="77" group-title="CULTURA", CUL | DW América
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/181177
-#EXTINF: -1 tvg-chno="78" group-title="CULTURA", CUL | HGTV HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/452238
-#EXTINF: -1 tvg-chno="79" group-title="CULTURA", CUL | HGTV MX
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/178146
-#EXTINF: -1 tvg-chno="80" group-title="CULTURA", CUL | History 2 FHD SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/105685
-#EXTINF: -1 tvg-chno="81" group-title="CULTURA", CUL | History 2 HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19542
-#EXTINF: -1 tvg-chno="82" group-title="CULTURA", CUL | History 2 SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439767
-#EXTINF: -1 tvg-chno="83" group-title="CULTURA", CUL | History Channel HD SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242013
-#EXTINF: -1 tvg-chno="84" group-title="CULTURA", CUL | History Channel SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186570
-#EXTINF: -1 tvg-chno="85" group-title="CULTURA", CUL | History FHD NORTE
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53074
-#EXTINF: -1 tvg-chno="86" group-title="CULTURA", CUL | Investigation Discovery FHD NORTE
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439789
-#EXTINF: -1 tvg-chno="87" group-title="CULTURA", CUL | Investigation Discovery SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53051
-#EXTINF: -1 tvg-chno="88" group-title="CULTURA", CUL | Investigation Discovery SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36458
-#EXTINF: -1 tvg-chno="89" group-title="CULTURA", CUL | Love Nature
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276310
-#EXTINF: -1 tvg-chno="90" group-title="CULTURA", CUL | Nat Geo FHD NORTE
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439788
-#EXTINF: -1 tvg-chno="91" group-title="CULTURA", CUL | NAT GEO Mundo
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54154
-#EXTINF: -1 tvg-chno="92" group-title="CULTURA", CUL | Nat Geo SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242015
-#EXTINF: -1 tvg-chno="93" group-title="CULTURA", CUL | NAT GEO Wild SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36470
-#EXTINF: -1 tvg-chno="94" group-title="CULTURA", CUL | Natgeo Wild
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/452237
-#EXTINF: -1 tvg-chno="95" group-title="CULTURA", CUL | Saber Mas HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453808
-#EXTINF: -1 tvg-chno="96" group-title="DEPORTES", DEP  | Band Sports BRA
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/48534
-#EXTINF: -1 tvg-chno="97" group-title="DEPORTES", DEP | Adrenalina Sports
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/71832
-#EXTINF: -1 tvg-chno="98" group-title="DEPORTES", DEP | Afizzionados HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54984
-#EXTINF: -1 tvg-chno="99" group-title="DEPORTES", DEP | Bein Sports Ñ
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36401
-#EXTINF: -1 tvg-chno="100" group-title="DEPORTES", DEP | Bein Sports Ñ SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/228360
-#EXTINF: -1 tvg-chno="101" group-title="DEPORTES", DEP | Bein Sports XTRA Ñ
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/259731
-#EXTINF: -1 tvg-chno="102" group-title="DEPORTES", DEP | Canal Claro HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469051
-#EXTINF: -1 tvg-chno="103" group-title="DEPORTES", DEP | CDO Básico SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/12826
-#EXTINF: -1 tvg-chno="104" group-title="DEPORTES", DEP | Claro Sports 2 HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469053
-#EXTINF: -1 tvg-chno="105" group-title="DEPORTES", DEP | Claro Sports HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/164262
-#EXTINF: -1 tvg-chno="106" group-title="DEPORTES", DEP | DirecTV Sports + HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518959
-#EXTINF: -1 tvg-chno="107" group-title="DEPORTES", DEP | DirecTV Sports + SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/310535
-#EXTINF: -1 tvg-chno="108" group-title="DEPORTES", DEP | DirecTV Sports 1 ARG HD ►℗
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158511
-#EXTINF: -1 tvg-chno="109" group-title="DEPORTES", DEP | DirecTV Sports 1 SD ECU
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/310516
-#EXTINF: -1 tvg-chno="110" group-title="DEPORTES", DEP | DirecTV Sports 2 FHD ⭐️
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456658
-#EXTINF: -1 tvg-chno="111" group-title="DEPORTES", DEP | DirecTV Sports 2 HD COL
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/257326
-#EXTINF: -1 tvg-chno="112" group-title="DEPORTES", DEP | DirecTV Sports 2 SD ⭐️
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158513
-#EXTINF: -1 tvg-chno="113" group-title="DEPORTES", DEP | DirecTV Sports FHD ⭐️
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158506
-#EXTINF: -1 tvg-chno="114" group-title="DEPORTES", DEP | DirecTV Sports HD ARG
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/310533
-#EXTINF: -1 tvg-chno="115" group-title="DEPORTES", DEP | DirecTV Sports HD COL
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456660
-#EXTINF: -1 tvg-chno="116" group-title="DEPORTES", DEP | DirecTV Sports HD ECU
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/310536
-#EXTINF: -1 tvg-chno="117" group-title="DEPORTES", DEP | DirecTV Sports SD ⭐️
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456659
-#EXTINF: -1 tvg-chno="118" group-title="DEPORTES", DEP | ESPN 1  AR FHD.
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439754
-#EXTINF: -1 tvg-chno="119" group-title="DEPORTES", DEP | ESPN 1  SD ►℗
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219173
-#EXTINF: -1 tvg-chno="120" group-title="DEPORTES", DEP | ESPN 1  SUR FHD..
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439753
-#EXTINF: -1 tvg-chno="121" group-title="DEPORTES", DEP | ESPN 1  SUR... FHD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439752
-#EXTINF: -1 tvg-chno="122" group-title="DEPORTES", DEP | ESPN 1 ARG HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/454719
-#EXTINF: -1 tvg-chno="123" group-title="DEPORTES", DEP | ESPN 1 FHD NORTE
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/272499
-#EXTINF: -1 tvg-chno="124" group-title="DEPORTES", DEP | ESPN 1 HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219171
-#EXTINF: -1 tvg-chno="125" group-title="DEPORTES", DEP | ESPN 1 HD COL
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/519821
-#EXTINF: -1 tvg-chno="126" group-title="DEPORTES", DEP | ESPN 1 MX HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9380
-#EXTINF: -1 tvg-chno="127" group-title="DEPORTES", DEP | ESPN 1 MX SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185154
-#EXTINF: -1 tvg-chno="128" group-title="DEPORTES", DEP | ESPN 1 PE
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/220727
-#EXTINF: -1 tvg-chno="129" group-title="DEPORTES", DEP | ESPN 1 PE HD ►℗
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219172
-#EXTINF: -1 tvg-chno="130" group-title="DEPORTES", DEP | ESPN 1 SD CH
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439775
-#EXTINF: -1 tvg-chno="131" group-title="DEPORTES", DEP | ESPN 1 SD COL
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439774
-#EXTINF: -1 tvg-chno="132" group-title="DEPORTES", DEP | ESPN 2  PERU HD ►℗
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518967
-#EXTINF: -1 tvg-chno="133" group-title="DEPORTES", DEP | ESPN 2 AR SD  ►℗
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518964
-#EXTINF: -1 tvg-chno="134" group-title="DEPORTES", DEP | ESPN 2 BR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456549
-#EXTINF: -1 tvg-chno="135" group-title="DEPORTES", DEP | ESPN 2 FHD NORTE
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185149
-#EXTINF: -1 tvg-chno="136" group-title="DEPORTES", DEP | ESPN 2 FHD SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439757
-#EXTINF: -1 tvg-chno="137" group-title="DEPORTES", DEP | ESPN 2 FHD SUR .
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518968
-#EXTINF: -1 tvg-chno="138" group-title="DEPORTES", DEP | ESPN 2 MX
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518965
-#EXTINF: -1 tvg-chno="139" group-title="DEPORTES", DEP | ESPN 2 MX HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36391
-#EXTINF: -1 tvg-chno="140" group-title="DEPORTES", DEP | ESPN 2 SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439802
-#EXTINF: -1 tvg-chno="141" group-title="DEPORTES", DEP | ESPN 2 SD SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518966
-#EXTINF: -1 tvg-chno="142" group-title="DEPORTES", DEP | ESPN 2 SD SUR .
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439772
-#EXTINF: -1 tvg-chno="143" group-title="DEPORTES", DEP | ESPN 3  AR HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21220
-#EXTINF: -1 tvg-chno="144" group-title="DEPORTES", DEP | ESPN 3  MX
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9530
-#EXTINF: -1 tvg-chno="145" group-title="DEPORTES", DEP | ESPN 3 AR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518963
-#EXTINF: -1 tvg-chno="146" group-title="DEPORTES", DEP | ESPN 3 FHD NORTE
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/40735
-#EXTINF: -1 tvg-chno="147" group-title="DEPORTES", DEP | ESPN 3 FHD SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518962
-#EXTINF: -1 tvg-chno="148" group-title="DEPORTES", DEP | ESPN 3 MX HD  ►℗
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186774
-#EXTINF: -1 tvg-chno="149" group-title="DEPORTES", DEP | ESPN 3 SD SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439771
-#EXTINF: -1 tvg-chno="150" group-title="DEPORTES", DEP | ESPN 4 FHD NORTE
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/224430
-#EXTINF: -1 tvg-chno="151" group-title="DEPORTES", DEP | ESPN 4 SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439801
-#EXTINF: -1 tvg-chno="152" group-title="DEPORTES", DEP | ESPN 4 SD SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439770
-#EXTINF: -1 tvg-chno="153" group-title="DEPORTES", DEP | ESPN Deportes HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54533
-#EXTINF: -1 tvg-chno="154" group-title="DEPORTES", DEP | ESPN Deportes SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54094
-#EXTINF: -1 tvg-chno="155" group-title="DEPORTES", DEP | ESPN Extra  MX
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21229
-#EXTINF: -1 tvg-chno="156" group-title="DEPORTES", DEP | ESPN Extra ARG FHD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439755
-#EXTINF: -1 tvg-chno="157" group-title="DEPORTES", DEP | ESPN Extra HD MX @
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19485
-#EXTINF: -1 tvg-chno="158" group-title="DEPORTES", DEP | ESPN Extra HD SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/454717
-#EXTINF: -1 tvg-chno="159" group-title="DEPORTES", DEP | ESPN Premium FHD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276163
-#EXTINF: -1 tvg-chno="160" group-title="DEPORTES", DEP | ESPN Premium HD AR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/215252
-#EXTINF: -1 tvg-chno="161" group-title="DEPORTES", DEP | FOX Deportes
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36396
-#EXTINF: -1 tvg-chno="162" group-title="DEPORTES", DEP | FOX Sports 1  AR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158518
-#EXTINF: -1 tvg-chno="163" group-title="DEPORTES", DEP | FOX Sports 1 HD COL
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518960
-#EXTINF: -1 tvg-chno="164" group-title="DEPORTES", DEP | FOX Sports 1 HD MEX
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198785
-#EXTINF: -1 tvg-chno="165" group-title="DEPORTES", DEP | FOX Sports 1 MEX
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19632
-#EXTINF: -1 tvg-chno="166" group-title="DEPORTES", DEP | FOX Sports 1 SUR  FHD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36387
-#EXTINF: -1 tvg-chno="167" group-title="DEPORTES", DEP | FOX Sports 1 SUR SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518961
-#EXTINF: -1 tvg-chno="168" group-title="DEPORTES", DEP | FOX Sports 2 ARG HD ►℗
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19652
-#EXTINF: -1 tvg-chno="169" group-title="DEPORTES", DEP | FOX Sports 2 FHD NORTE
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186573
-#EXTINF: -1 tvg-chno="170" group-title="DEPORTES", DEP | FOX Sports 2 HD BRA
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/48540
-#EXTINF: -1 tvg-chno="171" group-title="DEPORTES", DEP | FOX Sports 2 MEX HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19495
-#EXTINF: -1 tvg-chno="172" group-title="DEPORTES", DEP | FOX Sports 2 SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439803
-#EXTINF: -1 tvg-chno="173" group-title="DEPORTES", DEP | FOX Sports 2 SD SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185155
-#EXTINF: -1 tvg-chno="174" group-title="DEPORTES", DEP | FOX Sports 2 SUR FHD ►℗
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186606
-#EXTINF: -1 tvg-chno="175" group-title="DEPORTES", DEP | FOX Sports 3 FHD NORTE
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/93563
-#EXTINF: -1 tvg-chno="176" group-title="DEPORTES", DEP | FOX Sports 3 HD MEX
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9538
-#EXTINF: -1 tvg-chno="177" group-title="DEPORTES", DEP | FOX Sports 3 MX HD ►℗
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19496
-#EXTINF: -1 tvg-chno="178" group-title="DEPORTES", DEP | FOX Sports 3 SUR FHD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36389
-#EXTINF: -1 tvg-chno="179" group-title="DEPORTES", DEP | FOX Sports Premium
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158454
-#EXTINF: -1 tvg-chno="180" group-title="DEPORTES", DEP | FOX Sports Premium op2
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21298
-#EXTINF: -1 tvg-chno="181" group-title="DEPORTES", DEP | GOL TV LAT
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/51263
-#EXTINF: -1 tvg-chno="182" group-title="DEPORTES", DEP | Premiere 1 HD BRA
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/56720
-#EXTINF: -1 tvg-chno="183" group-title="DEPORTES", DEP | Premiere 2
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456656
-#EXTINF: -1 tvg-chno="184" group-title="DEPORTES", DEP | Premiere 3  BRA
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/49111
-#EXTINF: -1 tvg-chno="185" group-title="DEPORTES", DEP | Premiere Clubes HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456657
-#EXTINF: -1 tvg-chno="186" group-title="DEPORTES", DEP | Real Madrid TV HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/310523
-#EXTINF: -1 tvg-chno="187" group-title="DEPORTES", DEP | TNT Sports 3 HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19638
-#EXTINF: -1 tvg-chno="188" group-title="DEPORTES", DEP | TNT Sports AR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/211363
-#EXTINF: -1 tvg-chno="189" group-title="DEPORTES", DEP | TNT Sports ARG
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36424
-#EXTINF: -1 tvg-chno="190" group-title="DEPORTES", DEP | TNT Sports FHD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/224369
-#EXTINF: -1 tvg-chno="191" group-title="DEPORTES", DEP | TVC Deportes HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36406
-#EXTINF: -1 tvg-chno="192" group-title="DEPORTES", DEP | TyC Sport  FHD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19461
-#EXTINF: -1 tvg-chno="193" group-title="DEPORTES", DEP | TyC Sport SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21222
-#EXTINF: -1 tvg-chno="194" group-title="DEPORTES", DEP | TYC Sports HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/454718
-#EXTINF: -1 tvg-chno="195" group-title="DEPORTES", DEP | TYC Sports Internacional HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/188939
-#EXTINF: -1 tvg-chno="196" group-title="DEPORTES", DEP | VTV Plus URU HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186609
-#EXTINF: -1 tvg-chno="197" group-title="CINE PREMIUM", CINE | A&E NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | A&E NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/241996
-#EXTINF: -1 tvg-chno="198" group-title="CINE PREMIUM", CINE | A&E SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | A&E SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186628
-#EXTINF: -1 tvg-chno="199" group-title="CINE PREMIUM", CINE | AMC FHD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | AMC FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186852
-#EXTINF: -1 tvg-chno="200" group-title="CINE PREMIUM", CINE | AMC FHD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | AMC FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439762
-#EXTINF: -1 tvg-chno="201" group-title="CINE PREMIUM", CINE | AMC SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | AMC SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159149
-#EXTINF: -1 tvg-chno="202" group-title="CINE PREMIUM", CINE | AXN FHD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | AXN FHD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/241995
-#EXTINF: -1 tvg-chno="203" group-title="CINE PREMIUM", CINE | AXN HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | AXN HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53047
-#EXTINF: -1 tvg-chno="204" group-title="CINE PREMIUM", CINE | AXN SD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | AXN SD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439779
-#EXTINF: -1 tvg-chno="205" group-title="CINE PREMIUM", CINE | Canal DHE FHD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Canal DHE FHD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/225716
-#EXTINF: -1 tvg-chno="206" group-title="CINE PREMIUM", CINE | Cine Latino
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Cine Latino
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/55511
-#EXTINF: -1 tvg-chno="207" group-title="CINE PREMIUM", CINE | Cine Sureño @
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Cine Sureño @
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/199527
-#EXTINF: -1 tvg-chno="208" group-title="CINE PREMIUM", CINE | CineCanal FHD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | CineCanal FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19475
-#EXTINF: -1 tvg-chno="209" group-title="CINE PREMIUM", CINE | CineCanal FHD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | CineCanal FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439760
-#EXTINF: -1 tvg-chno="210" group-title="CINE PREMIUM", CINE | CineCanal HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | CineCanal HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9494
-#EXTINF: -1 tvg-chno="211" group-title="CINE PREMIUM", CINE | CineCanal SD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | CineCanal SD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159151
-#EXTINF: -1 tvg-chno="212" group-title="CINE PREMIUM", CINE | Cinemax FHD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Cinemax FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242025
-#EXTINF: -1 tvg-chno="213" group-title="CINE PREMIUM", CINE | Cinemax SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Cinemax SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54167
-#EXTINF: -1 tvg-chno="214" group-title="CINE PREMIUM", CINE | Claro Cinema
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Claro Cinema
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276307
-#EXTINF: -1 tvg-chno="215" group-title="CINE PREMIUM", CINE | De Película
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | De Película
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53095
-#EXTINF: -1 tvg-chno="216" group-title="CINE PREMIUM", CINE | De Película Classic@
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | De Película Classic@
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53090
-#EXTINF: -1 tvg-chno="217" group-title="CINE PREMIUM", CINE | De Película Plus
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | De Película Plus
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53091
-#EXTINF: -1 tvg-chno="218" group-title="CINE PREMIUM", CINE | De Película SD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | De Película SD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9506
-#EXTINF: -1 tvg-chno="219" group-title="CINE PREMIUM", CINE | Europa Europa
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Europa Europa
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/473708
-#EXTINF: -1 tvg-chno="220" group-title="CINE PREMIUM", CINE | Film & Arts HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Film & Arts HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19535
-#EXTINF: -1 tvg-chno="221" group-title="CINE PREMIUM", CINE | Golden Edge
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Golden Edge
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9349
-#EXTINF: -1 tvg-chno="222" group-title="CINE PREMIUM", CINE | Golden Edge FHD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Golden Edge FHD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9505
-#EXTINF: -1 tvg-chno="223" group-title="CINE PREMIUM", CINE | Golden Edge SD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Golden Edge SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439804
-#EXTINF: -1 tvg-chno="224" group-title="CINE PREMIUM", CINE | Golden Plus @
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Golden Plus @
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53089
-#EXTINF: -1 tvg-chno="225" group-title="CINE PREMIUM", CINE | Golden Plus HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Golden Plus HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9496
-#EXTINF: -1 tvg-chno="226" group-title="CINE PREMIUM", CINE | Golden Premier
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Golden Premier
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/67425
-#EXTINF: -1 tvg-chno="227" group-title="CINE PREMIUM", CINE | Golden Premier 2
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Golden Premier 2
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453359
-#EXTINF: -1 tvg-chno="228" group-title="CINE PREMIUM", CINE | Golden Premier FHD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Golden Premier FHD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/222829
-#EXTINF: -1 tvg-chno="229" group-title="CINE PREMIUM", CINE | Golden Premiere 2 NORTE HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Golden Premiere 2 NORTE HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469057
-#EXTINF: -1 tvg-chno="230" group-title="CINE PREMIUM", CINE | Golden Premiere NORTE HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Golden Premiere NORTE HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469058
-#EXTINF: -1 tvg-chno="231" group-title="CINE PREMIUM", CINE | Golden SD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Golden SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9504
-#EXTINF: -1 tvg-chno="232" group-title="CINE PREMIUM", CINE | Golden SD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Golden SD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242027
-#EXTINF: -1 tvg-chno="233" group-title="CINE PREMIUM", CINE | Golden SD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Golden SD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439751
-#EXTINF: -1 tvg-chno="234" group-title="CINE PREMIUM", CINE | HBO 2 FHD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO 2 FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439750
-#EXTINF: -1 tvg-chno="235" group-title="CINE PREMIUM", CINE | HBO 2 HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO 2 HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159126
-#EXTINF: -1 tvg-chno="236" group-title="CINE PREMIUM", CINE | HBO 2 SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO 2 SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/286151
-#EXTINF: -1 tvg-chno="237" group-title="CINE PREMIUM", CINE | HBO Family 4K
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Family 4K
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439797
-#EXTINF: -1 tvg-chno="238" group-title="CINE PREMIUM", CINE | HBO Family FHD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Family FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/12854
-#EXTINF: -1 tvg-chno="239" group-title="CINE PREMIUM", CINE | HBO Family FHD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Family FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/73200
-#EXTINF: -1 tvg-chno="240" group-title="CINE PREMIUM", CINE | HBO Family sd
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Family sd
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185178
-#EXTINF: -1 tvg-chno="241" group-title="CINE PREMIUM", CINE | HBO HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242029
-#EXTINF: -1 tvg-chno="242" group-title="CINE PREMIUM", CINE | HBO Mundi HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Mundi HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19547
-#EXTINF: -1 tvg-chno="243" group-title="CINE PREMIUM", CINE | HBO Mundi SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Mundi SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158467
-#EXTINF: -1 tvg-chno="244" group-title="CINE PREMIUM", CINE | HBO NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54282
-#EXTINF: -1 tvg-chno="245" group-title="CINE PREMIUM", CINE | HBO Plus
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Plus
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/73199
-#EXTINF: -1 tvg-chno="246" group-title="CINE PREMIUM", CINE | HBO Plus @
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Plus @
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198755
-#EXTINF: -1 tvg-chno="247" group-title="CINE PREMIUM", CINE | HBO Plus AR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Plus AR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159125
-#EXTINF: -1 tvg-chno="248" group-title="CINE PREMIUM", CINE | HBO Plus FHD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Plus FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198753
-#EXTINF: -1 tvg-chno="249" group-title="CINE PREMIUM", CINE | HBO Plus HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Plus HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185172
-#EXTINF: -1 tvg-chno="250" group-title="CINE PREMIUM", CINE | HBO Plus SD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Plus SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19581
-#EXTINF: -1 tvg-chno="251" group-title="CINE PREMIUM", CINE | HBO Pop
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Pop
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185169
-#EXTINF: -1 tvg-chno="252" group-title="CINE PREMIUM", CINE | HBO Pop SD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Pop FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19626
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Pop SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159124
-#EXTINF: -1 tvg-chno="253" group-title="CINE PREMIUM", CINE | HBO SD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO SD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198760
-#EXTINF: -1 tvg-chno="254" group-title="CINE PREMIUM", CINE | HBO SD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO SD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439768
-#EXTINF: -1 tvg-chno="255" group-title="CINE PREMIUM", CINE | HBO Signature HD LAT
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Signature HD LAT
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/167659
-#EXTINF: -1 tvg-chno="256" group-title="CINE PREMIUM", CINE | HBO Signature SD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Signature SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19582
-#EXTINF: -1 tvg-chno="257" group-title="CINE PREMIUM", CINE | HBO SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439749
-#EXTINF: -1 tvg-chno="258" group-title="CINE PREMIUM", CINE | HBO Xtreme FHD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Xtreme FHD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185175
-#EXTINF: -1 tvg-chno="259" group-title="CINE PREMIUM", CINE | HBO Xtreme FHD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Xtreme FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19548
-#EXTINF: -1 tvg-chno="260" group-title="CINE PREMIUM", CINE | HBO Xtreme HD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Xtreme HD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54164
-#EXTINF: -1 tvg-chno="261" group-title="CINE PREMIUM", CINE | HBO Xtreme SD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | HBO Xtreme SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185170
-#EXTINF: -1 tvg-chno="262" group-title="CINE PREMIUM", CINE | Morbido TV HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Morbido TV HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453507
-#EXTINF: -1 tvg-chno="263" group-title="CINE PREMIUM", CINE | MultiCinema
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | MultiCinema
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453506
-#EXTINF: -1 tvg-chno="264" group-title="CINE PREMIUM", CINE | Multipremier HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Multipremier HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453505
-#EXTINF: -1 tvg-chno="265" group-title="CINE PREMIUM", CINE | Panico FHD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Panico FHD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453503
-#EXTINF: -1 tvg-chno="266" group-title="CINE PREMIUM", CINE | Paramount Channel HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Paramount Channel HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54277
-#EXTINF: -1 tvg-chno="267" group-title="CINE PREMIUM", CINE | Paramount Channel SD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Paramount Channel SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439808
-#EXTINF: -1 tvg-chno="268" group-title="CINE PREMIUM", CINE | Paramount Channel SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Paramount Channel SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242033
-#EXTINF: -1 tvg-chno="269" group-title="CINE PREMIUM", CINE | Paramount Network FHD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Paramount Network FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439787
-#EXTINF: -1 tvg-chno="270" group-title="CINE PREMIUM", CINE | Paramount Network NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Paramount Network NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19556
-#EXTINF: -1 tvg-chno="271" group-title="CINE PREMIUM", CINE | Showtime HD latino
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Showtime HD latino
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159148
-#EXTINF: -1 tvg-chno="272" group-title="CINE PREMIUM", CINE | Sony
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Sony
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/199523
-#EXTINF: -1 tvg-chno="273" group-title="CINE PREMIUM", CINE | Sony Movies HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Sony Movies HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469055
-#EXTINF: -1 tvg-chno="274" group-title="CINE PREMIUM", CINE | Space FHD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Space FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19454
-#EXTINF: -1 tvg-chno="275" group-title="CINE PREMIUM", CINE | Space NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Space NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54168
-#EXTINF: -1 tvg-chno="276" group-title="CINE PREMIUM", CINE | Space SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Space SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159153
-#EXTINF: -1 tvg-chno="277" group-title="CINE PREMIUM", CINE | STAR Channel FHD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | STAR Channel FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198736
-#EXTINF: -1 tvg-chno="278" group-title="CINE PREMIUM", CINE | STAR Channel FHD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | STAR Channel FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439744
-#EXTINF: -1 tvg-chno="279" group-title="CINE PREMIUM", CINE | STAR Channel HD MX Encoder
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | STAR Channel HD MX Encoder
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198735
-#EXTINF: -1 tvg-chno="280" group-title="CINE PREMIUM", CINE | STAR Channel SD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | STAR Channel SD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439809
-#EXTINF: -1 tvg-chno="281" group-title="CINE PREMIUM", CINE | Starz HD latino
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Starz HD latino
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/159130
-#EXTINF: -1 tvg-chno="282" group-title="CINE PREMIUM", CINE | Studio Universal FHD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Studio Universal FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/241984
-#EXTINF: -1 tvg-chno="283" group-title="CINE PREMIUM", CINE | Studio Universal HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Studio Universal HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19572
-#EXTINF: -1 tvg-chno="284" group-title="CINE PREMIUM", CINE | Studio Universal SD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Studio Universal SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/222826
-#EXTINF: -1 tvg-chno="285" group-title="CINE PREMIUM", CINE | SyFy HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | SyFy HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54240
-#EXTINF: -1 tvg-chno="286" group-title="CINE PREMIUM", CINE | SyFy SD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | SyFy SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19561
-#EXTINF: -1 tvg-chno="287" group-title="CINE PREMIUM", CINE | TBS HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | TBS HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19562
-#EXTINF: -1 tvg-chno="288" group-title="CINE PREMIUM", CINE | TCM
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | TCM
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19563
-#EXTINF: -1 tvg-chno="289" group-title="CINE PREMIUM", CINE | TCM SD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | TCM SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439810
-#EXTINF: -1 tvg-chno="290" group-title="CINE PREMIUM", CINE | TNT
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | TNT
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158465
-#EXTINF: -1 tvg-chno="291" group-title="CINE PREMIUM", CINE | TNT LAT FHD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | TNT LAT FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9495
-#EXTINF: -1 tvg-chno="292" group-title="CINE PREMIUM", CINE | TNT LAT FHD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | TNT LAT FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439741
-#EXTINF: -1 tvg-chno="293" group-title="CINE PREMIUM", CINE | TNT SD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | TNT SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439765
-#EXTINF: -1 tvg-chno="294" group-title="CINE PREMIUM", CINE | Top Cine @
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Top Cine @
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/199528
-#EXTINF: -1 tvg-chno="295" group-title="CINE PREMIUM", CINE | Universal Channel FHD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Universal Channel FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439738
-#EXTINF: -1 tvg-chno="296" group-title="CINE PREMIUM", CINE | Universal Cinema ESTE FHD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Universal Cinema ESTE FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185152
-#EXTINF: -1 tvg-chno="297" group-title="CINE PREMIUM", CINE | Universal Comedy FHD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Universal Comedy FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185166
-#EXTINF: -1 tvg-chno="298" group-title="CINE PREMIUM", CINE | Universal Crime FHD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Universal Crime FHD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185163
-#EXTINF: -1 tvg-chno="299" group-title="CINE PREMIUM", CINE | Universal Premiere
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Universal Premiere
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/236380
-#EXTINF: -1 tvg-chno="300" group-title="CINE PREMIUM", CINE | Universal Premiere FHD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Universal Premiere FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439739
-#EXTINF: -1 tvg-chno="301" group-title="CINE PREMIUM", CINE | Universal Premiere FHD SUR
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Universal Premiere FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198730
-#EXTINF: -1 tvg-chno="302" group-title="CINE PREMIUM", CINE | Universal Premiere OESTE FHD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Universal Premiere OESTE FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439785
-#EXTINF: -1 tvg-chno="303" group-title="CINE PREMIUM", CINE | Universal Reality FHD NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Universal Reality FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198741
-#EXTINF: -1 tvg-chno="304" group-title="CINE PREMIUM", CINE | Universal Reality NORTE
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Universal Reality NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439782
-#EXTINF: -1 tvg-chno="305" group-title="CINE PREMIUM", CINE | Universal TV HD
+#EXTINF:-1 group-title="CINE PREMIUM",CINE | Universal TV HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/184477
-#EXTINF: -1 tvg-chno="306" group-title="ENTRETENIMIENTO", EN | A&E HD
+#EXTINF:-1 group-title="CULTURA",CUL | Animal Planet HD op2
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9517
+#EXTINF:-1 group-title="CULTURA",CUL | Animal Planet HD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/229242
+#EXTINF:-1 group-title="CULTURA",CUL | Animal Planet NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439824
+#EXTINF:-1 group-title="CULTURA",CUL | Animal Planet SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276193
+#EXTINF:-1 group-title="CULTURA",CUL | Canal Cocina
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/453809
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery Channel FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9520
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery Channel Lat
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186572
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery Channel SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/93442
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery en Español  HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/452236
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery Familia
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/10769
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery Home & Health FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242008
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery Home & Health FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439759
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery Home & Health LAT
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/273322
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery Home & Health SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53078
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery Science FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36466
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery Theater FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439786
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery TLC
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/268886
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery TLC FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242009
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery TLC HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/199201
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery TLC HD MEX
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19596
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery Turbo HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54283
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery Turbo SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19505
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery World FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53077
+#EXTINF:-1 group-title="CULTURA",CUL | Discovery World SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9516
+#EXTINF:-1 group-title="CULTURA",CUL | DW América
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/181177
+#EXTINF:-1 group-title="CULTURA",CUL | HGTV HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/452238
+#EXTINF:-1 group-title="CULTURA",CUL | History 2 FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/105685
+#EXTINF:-1 group-title="CULTURA",CUL | History 2 HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19542
+#EXTINF:-1 group-title="CULTURA",CUL | History 2 SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439767
+#EXTINF:-1 group-title="CULTURA",CUL | History Channel HD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242013
+#EXTINF:-1 group-title="CULTURA",CUL | History Channel SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186570
+#EXTINF:-1 group-title="CULTURA",CUL | History FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53074
+#EXTINF:-1 group-title="CULTURA",CUL | Investigation Discovery FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439789
+#EXTINF:-1 group-title="CULTURA",CUL | Investigation Discovery SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53051
+#EXTINF:-1 group-title="CULTURA",CUL | Investigation Discovery SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36458
+#EXTINF:-1 group-title="CULTURA",CUL | Love Nature
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276310
+#EXTINF:-1 group-title="CULTURA",CUL | Nat Geo FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439788
+#EXTINF:-1 group-title="CULTURA",CUL | NAT GEO Mundo
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54154
+#EXTINF:-1 group-title="CULTURA",CUL | Nat Geo SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242015
+#EXTINF:-1 group-title="CULTURA",CUL | NAT GEO Wild SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36470
+#EXTINF:-1 group-title="CULTURA",CUL | Natgeo Wild
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/452237
+#EXTINF:-1 group-title="DEPORTES",DEP  | Band Sports BRA
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/48534
+#EXTINF:-1 group-title="DEPORTES",DEP | Adrenalina Sports
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/71832
+#EXTINF:-1 group-title="DEPORTES",DEP | Bein Sports Ñ
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36401
+#EXTINF:-1 group-title="DEPORTES",DEP | Bein Sports Ñ SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/228360
+#EXTINF:-1 group-title="DEPORTES",DEP | Bein Sports XTRA Ñ
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/259731
+#EXTINF:-1 group-title="DEPORTES",DEP | Canal Claro HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469051
+#EXTINF:-1 group-title="DEPORTES",DEP | CDO Básico SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/12826
+#EXTINF:-1 group-title="DEPORTES",DEP | Claro Sports 1 HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469052
+#EXTINF:-1 group-title="DEPORTES",DEP | Claro Sports 2 HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469053
+#EXTINF:-1 group-title="DEPORTES",DEP | Claro Sports HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/164262
+#EXTINF:-1 group-title="DEPORTES",DEP | DirecTV Sports 1 ARG HD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158511
+#EXTINF:-1 group-title="DEPORTES",DEP | DirecTV Sports 1 SD ECU
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/310516
+#EXTINF:-1 group-title="DEPORTES",DEP | DirecTV Sports 2 FHD ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456658
+#EXTINF:-1 group-title="DEPORTES",DEP | DirecTV Sports 2 HD COL
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/257326
+#EXTINF:-1 group-title="DEPORTES",DEP | DirecTV Sports 2 SD ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158513
+#EXTINF:-1 group-title="DEPORTES",DEP | DirecTV Sports FHD ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158506
+#EXTINF:-1 group-title="DEPORTES",DEP | DirecTV Sports HD ARG
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/310533
+#EXTINF:-1 group-title="DEPORTES",DEP | DirecTV Sports HD COL
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456660
+#EXTINF:-1 group-title="DEPORTES",DEP | DirecTV Sports HD ECU
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/310536
+#EXTINF:-1 group-title="DEPORTES",DEP | DirecTV Sports SD ⭐️
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456659
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 1  AR FHD.
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439754
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 1  SD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219173
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 1  SUR FHD..
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439753
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 1  SUR... FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439752
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 1 ARG HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/454719
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 1 FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/272499
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 1 HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219171
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 1 HD COL
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/519821
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 1 MX HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9380
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 1 MX SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185154
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 1 PE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/220727
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 1 PE HD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219172
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 1 SD CH
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439775
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 1 SD COL
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439774
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 2  PERU HD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518967
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 2 AR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185666
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 2 AR SD  ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518964
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 2 BR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456549
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 2 FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185149
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 2 FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439757
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 2 FHD SUR .
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518968
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 2 MX
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518965
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 2 MX HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36391
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 2 SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439802
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 2 SD SUR .
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439772
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 3  AR HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21220
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 3  MX
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9530
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 3 AR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518963
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 3 FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/40735
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 3 FHD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518962
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 3 MX HD  ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186774
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 3 SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439771
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 4 FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/224430
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN 4 SD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439770
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN Deportes HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54533
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN Deportes SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54094
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN Extra  MX
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21229
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN Extra ARG FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439755
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN Extra BRA
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/168997
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN Extra HD MX @
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19485
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN Extra HD SUR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/454717
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN Premium FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276163
+#EXTINF:-1 group-title="DEPORTES",DEP | ESPN Premium HD AR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/215252
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Deportes
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36396
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 1  AR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158518
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 1 HD COL
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518960
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 1 HD MEX
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/198785
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 1 MEX
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19632
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 1 SUR  FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36387
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 1 SUR SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518961
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 2 ARG HD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19652
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 2 FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186573
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 2 HD BRA
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/48540
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 2 MEX HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19495
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 2 SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439803
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 2 SUR FHD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186606
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 3 FHD NORTE
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/93563
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 3 HD MEX
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9538
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 3 MX HD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19496
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports 3 SUR FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36389
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports Premium
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/158454
+#EXTINF:-1 group-title="DEPORTES",DEP | FOX Sports Premium op2
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21298
+#EXTINF:-1 group-title="DEPORTES",DEP | GOL TV LAT
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/51263
+#EXTINF:-1 group-title="DEPORTES",DEP | Premiere 1 HD BRA
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/56720
+#EXTINF:-1 group-title="DEPORTES",DEP | Premiere 2
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456656
+#EXTINF:-1 group-title="DEPORTES",DEP | Premiere 3  BRA
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/49111
+#EXTINF:-1 group-title="DEPORTES",DEP | Premiere Clubes HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/456657
+#EXTINF:-1 group-title="DEPORTES",DEP | Real Madrid TV HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/310523
+#EXTINF:-1 group-title="DEPORTES",DEP | TNT Sports 3 HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19638
+#EXTINF:-1 group-title="DEPORTES",DEP | TNT Sports AR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/211363
+#EXTINF:-1 group-title="DEPORTES",DEP | TNT Sports ARG
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36424
+#EXTINF:-1 group-title="DEPORTES",DEP | TNT Sports FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/224369
+#EXTINF:-1 group-title="DEPORTES",DEP | TVC Deportes HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36406
+#EXTINF:-1 group-title="DEPORTES",DEP | TyC Sport  FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19461
+#EXTINF:-1 group-title="DEPORTES",DEP | TyC Sport SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21222
+#EXTINF:-1 group-title="DEPORTES",DEP | TYC Sports HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/454718
+#EXTINF:-1 group-title="DEPORTES",DEP | TYC Sports Internacional HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/188939
+#EXTINF:-1 group-title="DEPORTES",DEP | VTV Plus URU HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186609
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | A&E HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9547
-#EXTINF: -1 tvg-chno="307" group-title="ENTRETENIMIENTO", EN | A3series
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | A3series
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53059
-#EXTINF: -1 tvg-chno="308" group-title="ENTRETENIMIENTO", EN | A3Series
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | A3Series
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/211198
-#EXTINF: -1 tvg-chno="309" group-title="ENTRETENIMIENTO", EN | Antena 3 Internacional
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Antena 3 Internacional
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/211202
-#EXTINF: -1 tvg-chno="310" group-title="ENTRETENIMIENTO", EN | Comedy Central FHD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Comedy Central FHD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/241997
-#EXTINF: -1 tvg-chno="311" group-title="ENTRETENIMIENTO", EN | Comedy Central SD SUR
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Comedy Central SD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53049
-#EXTINF: -1 tvg-chno="312" group-title="ENTRETENIMIENTO", EN | Distrito comedia
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Distrito comedia
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469064
-#EXTINF: -1 tvg-chno="313" group-title="ENTRETENIMIENTO", EN | Distrito Comedia HD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Distrito Comedia HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9412
-#EXTINF: -1 tvg-chno="314" group-title="ENTRETENIMIENTO", EN | Distrito Comedia SD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Distrito Comedia SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9565
-#EXTINF: -1 tvg-chno="315" group-title="ENTRETENIMIENTO", EN | E! Entertaiment FHD NORTE
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | E! Entertaiment FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/241998
-#EXTINF: -1 tvg-chno="316" group-title="ENTRETENIMIENTO", EN | E! Entertainment FHD SUR
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | E! Entertainment FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242054
-#EXTINF: -1 tvg-chno="317" group-title="ENTRETENIMIENTO", EN | E! Entertainment SD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | E! Entertainment SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9405
-#EXTINF: -1 tvg-chno="318" group-title="ENTRETENIMIENTO", EN | El Garage SD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | El Garage SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19529
-#EXTINF: -1 tvg-chno="319" group-title="ENTRETENIMIENTO", EN | El Gourmet FHD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | El Gourmet FHD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9408
-#EXTINF: -1 tvg-chno="320" group-title="ENTRETENIMIENTO", EN | El Gourmet HD SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186629
-#EXTINF: -1 tvg-chno="321" group-title="ENTRETENIMIENTO", EN | Estrella TV
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Estrella TV
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/51169
-#EXTINF: -1 tvg-chno="322" group-title="ENTRETENIMIENTO", EN | ETC TV
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | ETC TV
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/394826
-#EXTINF: -1 tvg-chno="323" group-title="ENTRETENIMIENTO", EN | Food Network  FHD SUR
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Food Network  FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19583
-#EXTINF: -1 tvg-chno="324" group-title="ENTRETENIMIENTO", EN | Food Network HD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Food Network HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9554
-#EXTINF: -1 tvg-chno="325" group-title="ENTRETENIMIENTO", EN | FX FHD NORTE
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | FX FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242001
-#EXTINF: -1 tvg-chno="326" group-title="ENTRETENIMIENTO", EN | FX HD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | FX HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/167656
-#EXTINF: -1 tvg-chno="327" group-title="ENTRETENIMIENTO", EN | FX SD SUR
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | FX SD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9546
-#EXTINF: -1 tvg-chno="328" group-title="ENTRETENIMIENTO", EN | Glitz
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Gala TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54962
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Glitz
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/54399
-#EXTINF: -1 tvg-chno="329" group-title="ENTRETENIMIENTO", EN | Hola TV FHD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Hola TV FHD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9397
-#EXTINF: -1 tvg-chno="330" group-title="ENTRETENIMIENTO", EN | Kanal D Drama FHD ⭐️
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Kanal D Drama FHD ⭐️
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/183185
-#EXTINF: -1 tvg-chno="331" group-title="ENTRETENIMIENTO", EN | Lifetime  FHD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Lifetime  FHD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242002
-#EXTINF: -1 tvg-chno="332" group-title="ENTRETENIMIENTO", EN | Lifetime  SD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Lifetime  SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19536
-#EXTINF: -1 tvg-chno="333" group-title="ENTRETENIMIENTO", EN | Maschic SD*
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Maschic SD*
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439827
-#EXTINF: -1 tvg-chno="334" group-title="ENTRETENIMIENTO", EN | NBC Universo
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | NBC Universo
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/199524
-#EXTINF: -1 tvg-chno="335" group-title="ENTRETENIMIENTO", EN | Pasiones FHD NORTE
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Pasiones FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439781
-#EXTINF: -1 tvg-chno="336" group-title="ENTRETENIMIENTO", EN | Pasiones SUR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242017
-#EXTINF: -1 tvg-chno="337" group-title="ENTRETENIMIENTO", EN | Sony Channel FHD NORTE
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Sony Channel FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439783
-#EXTINF: -1 tvg-chno="338" group-title="ENTRETENIMIENTO", EN | Sony Channel FHD SUR
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Sony Channel FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439743
-#EXTINF: -1 tvg-chno="339" group-title="ENTRETENIMIENTO", EN | Sony Channel HD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Sony Channel HD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53039
-#EXTINF: -1 tvg-chno="340" group-title="ENTRETENIMIENTO", EN | SONY Comedias
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | SONY Comedias
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276162
-#EXTINF: -1 tvg-chno="341" group-title="ENTRETENIMIENTO", EN | SONY Competencias
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | SONY Competencias
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/218342
-#EXTINF: -1 tvg-chno="342" group-title="ENTRETENIMIENTO", EN | SONY Novelas
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | SONY Novelas
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/276161
-#EXTINF: -1 tvg-chno="343" group-title="ENTRETENIMIENTO", EN | Sony SD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Sony SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/211310
-#EXTINF: -1 tvg-chno="344" group-title="ENTRETENIMIENTO", EN | TNT Series FHD NORTE
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | TNT Novelas
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/542720
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | TNT Series FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439780
-#EXTINF: -1 tvg-chno="345" group-title="ENTRETENIMIENTO", EN | TNT Series FHD SUR
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | TNT Series FHD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/9560
-#EXTINF: -1 tvg-chno="346" group-title="ENTRETENIMIENTO", EN | TNT Series SUR
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | TNT Series SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53054
-#EXTINF: -1 tvg-chno="347" group-title="ENTRETENIMIENTO", EN | Tru TV
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Tru TV
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19466
-#EXTINF: -1 tvg-chno="348" group-title="ENTRETENIMIENTO", EN | Unicable FHD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Unicable FHD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242004
-#EXTINF: -1 tvg-chno="349" group-title="ENTRETENIMIENTO", EN | Warner TV FHD NORTE
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Warner TV FHD NORTE
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53040
-#EXTINF: -1 tvg-chno="350" group-title="ENTRETENIMIENTO", EN | Warner TV SD SUR
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Warner TV SD SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/53044
-#EXTINF: -1 tvg-chno="351" group-title="ENTRETENIMIENTO", EN | Warner TV SUR
+#EXTINF:-1 group-title="ENTRETENIMIENTO",EN | Warner TV SUR
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439740
-#EXTINF: -1 tvg-chno="352" group-title="ENTRETENIMIENTO", SONY NOVELAS
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/218340
-#EXTINF: -1 tvg-chno="353" group-title="PERÚ", PE | América TV FHD
+#EXTINF:-1 group-title="PERÚ",PE | América TV FHD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/102641
-#EXTINF: -1 tvg-chno="354" group-title="PERÚ", PE | América TV HD ►℗
+#EXTINF:-1 group-title="PERÚ",PE | América TV HD ►℗
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/102643
-#EXTINF: -1 tvg-chno="355" group-title="PERÚ", PE | ATV
+#EXTINF:-1 group-title="PERÚ ONDEMAND",PE | Antares TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514618
+#EXTINF:-1 group-title="PERÚ",PE | ATV
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/64666
-#EXTINF: -1 tvg-chno="356" group-title="PERÚ", PE | ATV + SD
+#EXTINF:-1 group-title="PERÚ",PE | ATV + SD
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/220992
-#EXTINF: -1 tvg-chno="357" group-title="PERÚ", PE | ATV op2
+#EXTINF:-1 group-title="PERÚ",PE | ATV op2
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/499432
-#EXTINF: -1 tvg-chno="358" group-title="PERÚ", PE | Canal N
+#EXTINF:-1 group-title="PERÚ",PE | Canal N
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/12891
-#EXTINF: -1 tvg-chno="359" group-title="PERÚ", PE | DirecTv 1 Perú
+#EXTINF:-1 group-title="PERÚ",PE | DirecTv 1 Perú
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469393
-#EXTINF: -1 tvg-chno="360" group-title="PERÚ", PE | Directv Sports +
+#EXTINF:-1 group-title="PERÚ",PE | Directv Sports +
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/69954
-#EXTINF: -1 tvg-chno="361" group-title="PERÚ", PE | Frecuencia Latina
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/203615
-#EXTINF: -1 tvg-chno="362" group-title="PERÚ", PE | Gol Perú
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/69495
-#EXTINF: -1 tvg-chno="363" group-title="PERÚ", PE | Gol Perú FHD ►℗
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21773
-#EXTINF: -1 tvg-chno="364" group-title="PERÚ", PE | Latina FHD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21772
-#EXTINF: -1 tvg-chno="365" group-title="PERÚ", PE | Latina TV
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186626
-#EXTINF: -1 tvg-chno="366" group-title="PERÚ", PE | Liga 1
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/478009
-#EXTINF: -1 tvg-chno="367" group-title="PERÚ", PE | Liga 1 MAX HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469158
-#EXTINF: -1 tvg-chno="368" group-title="PERÚ", PE | LIGA 1 MAX OP2
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/478008
-#EXTINF: -1 tvg-chno="369" group-title="PERÚ", PE | Liga 1 MAX SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/499709
-#EXTINF: -1 tvg-chno="370" group-title="PERÚ", PE | Movistar Deportes FHD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439746
-#EXTINF: -1 tvg-chno="371" group-title="PERÚ", PE | Movistar Deportes SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186611
-#EXTINF: -1 tvg-chno="372" group-title="PERÚ", PE | Movistar Plus
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/230754
-#EXTINF: -1 tvg-chno="373" group-title="PERÚ", PE | Onda Digital
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/214970
-#EXTINF: -1 tvg-chno="374" group-title="PERÚ", PE | Panamericana
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/192237
-#EXTINF: -1 tvg-chno="375" group-title="PERÚ", PE | Perú Mágico
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/52170
-#EXTINF: -1 tvg-chno="376" group-title="PERÚ", PE | RPP
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/12893
-#EXTINF: -1 tvg-chno="377" group-title="PERÚ", PE | TV Perú
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21774
-#EXTINF: -1 tvg-chno="378" group-title="PERÚ", PE | TV Perú Noticias
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/64667
-#EXTINF: -1 tvg-chno="379" group-title="PERÚ", PE | Willax  SD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/192235
-#EXTINF: -1 tvg-chno="380" group-title="PERÚ", PE | Willax HD
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/190542
-#EXTINF: -1 tvg-chno="381" group-title="PERÚ ONDEMAND", PE | Controversia TV
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514626
-#EXTINF: -1 tvg-chno="382" group-title="PERÚ ONDEMAND", PE | Exitosa
+#EXTINF:-1 group-title="PERÚ",PE | Exitosa
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/12881
+#EXTINF:-1 group-title="PERÚ ONDEMAND",PE | Exitosa
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514631
-#EXTINF: -1 tvg-chno="383" group-title="PERÚ ONDEMAND", PE | Hechicera TV
+#EXTINF:-1 group-title="PERÚ",PE | Frecuencia Latina
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/203615
+#EXTINF:-1 group-title="PERÚ",PE | Gol Perú
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/69495
+#EXTINF:-1 group-title="PERÚ",PE | Gol Perú FHD ►℗
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21773
+#EXTINF:-1 group-title="PERÚ ONDEMAND",PE | Hechicera TV
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514633
-#EXTINF: -1 tvg-chno="384" group-title="PERÚ ONDEMAND", PE | Master Televisión
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514635
-#EXTINF: -1 tvg-chno="385" group-title="PERÚ ONDEMAND", PE | Nativa
+#EXTINF:-1 group-title="PERÚ ONDEMAND",PE | JN19
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514634
+#EXTINF:-1 group-title="PERÚ",PE | Latina FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21772
+#EXTINF:-1 group-title="PERÚ",PE | Latina TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186626
+#EXTINF:-1 group-title="PERÚ",PE | Liga 1
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/478009
+#EXTINF:-1 group-title="PERÚ",PE | Liga 1 MAX HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/469158
+#EXTINF:-1 group-title="PERÚ",PE | Liga 1 MAX SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/499709
+#EXTINF:-1 group-title="PERÚ",PE | Movistar Deportes FHD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439746
+#EXTINF:-1 group-title="PERÚ",PE | Movistar Deportes SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186611
+#EXTINF:-1 group-title="PERÚ",PE | Movistar Plus
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/230754
+#EXTINF:-1 group-title="PERÚ ONDEMAND",PE | Nativa
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514615
-#EXTINF: -1 tvg-chno="386" group-title="PERÚ ONDEMAND", PE | Onda Digital TV
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514616
-#EXTINF: -1 tvg-chno="387" group-title="PERÚ ONDEMAND", PE | Ovación
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514639
-#EXTINF: -1 tvg-chno="388" group-title="PERÚ ONDEMAND", PE | Peruvisual
+#EXTINF:-1 group-title="PERÚ",PE | Onda Digital
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/214970
+#EXTINF:-1 group-title="PERÚ",PE | Panamericana
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/192237
+#EXTINF:-1 group-title="PERÚ",PE | Perú Mágico
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/52170
+#EXTINF:-1 group-title="PERÚ ONDEMAND",PE | Peruvisual
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514602
+#EXTINF:-1 group-title="PERÚ",PE | RPP
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/12893
+#EXTINF:-1 group-title="PERÚ",PE | TV Perú
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21774
+#EXTINF:-1 group-title="PERÚ",PE | TV Perú Noticias
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/64667
+#EXTINF:-1 group-title="PERÚ ONDEMAND",PE | Viva TV Yurimaguas
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/514656
+#EXTINF:-1 group-title="PERÚ",PE | Willax  SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/192235
+#EXTINF:-1 group-title="PERÚ",PE | Willax HD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/190542
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SONY NOVELAS
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/218340
+#EXTINF:-1 group-title="SUPER SPORTS",SuperSport Premier League
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/233429
+#EXTINF:-1 group-title="VENEZUELA",VE | Canal I
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/452102
+#EXTINF:-1 group-title="VENEZUELA",VE | IVC
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/518559
+#EXTINF:-1 group-title="VENEZUELA",VE | Oxigeno TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/205624
+#EXTINF:-1 group-title="VENEZUELA",VE | Sun Channel
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439742
+#EXTINF:-1 group-title="VENEZUELA",VE | Telesur
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/452018
+#EXTINF:-1 group-title="VENEZUELA",VE | Televen
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/56175
+#EXTINF:-1 group-title="VENEZUELA",VE | Vale TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/109094
+#EXTINF:-1 group-title="VENEZUELA",VE | Ve Plus TV
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/452101
+#EXTINF:-1 group-title="VENEZUELA",VE | Venevisión
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/56177
+#EXTINF:-1 group-title="VENEZUELA",VE | Vive SD
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439821
